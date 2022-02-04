@@ -5,6 +5,7 @@ http://iptv.ktkru.ru:8001/index.m3u8
 #EXTINF:-1 ,Первый канал HD
 http://edge1.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
 #EXTINF:-1 ,Россия 1
+#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 ,Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
@@ -15,6 +16,7 @@ https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 ,Россия 1 (+6)
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_7/variant.m3u8
 #EXTINF:-1 ,Россия К
+#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 ,Россия К (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_2/variant.m3u8
@@ -25,6 +27,7 @@ https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_7/variant.m3u8
 #EXTINF:-1 ,Россия 24
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 ,НТВ
+#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV/variant.m3u8
 #EXTINF:-1 ,НТВ (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8
