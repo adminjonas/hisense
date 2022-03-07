@@ -1,9 +1,6 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 tvg-logo="http://my.teleelevidenie.com/assets/logo/2867.png",Первый канал
-https://my.teleelevidenie.com/play/hls-custom-c63-tdfcb08d67e769a30c885b20239c59f85ae014381c6a29dba23dd5e10737edda6.m3u8
-#EXTINF:-1 tvg-logo="http://my.teleelevidenie.com/assets/logo/2443.png",Первый канал HD
-https://my.teleelevidenie.com/play/hls-custom-c310-tdfcb08d67e769a30c885b20239c59f85ae014381c6a29dba23dd5e10737edda6.m3u8
+
 #EXTINF:-1 ,Россия 1
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 ,Россия 1 (+2)
