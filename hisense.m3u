@@ -1,10 +1,11 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-
+#EXTINF:-1 tvg-logo="http://my.teleelevidenie.com/assets/logo/2867.png",Первый канал
+https://my.teleelevidenie.com/play/hls-custom-c63-tdfcb08d67e769a30c885b20239c59f85ae014381c6a29dba23dd5e10737edda6.m3u8
+#EXTINF:-1 tvg-logo="http://my.teleelevidenie.com/assets/logo/2443.png",Первый канал HD
+https://my.teleelevidenie.com/play/hls-custom-c310-tdfcb08d67e769a30c885b20239c59f85ae014381c6a29dba23dd5e10737edda6.m3u8
 #EXTINF:-1 ,Россия 1
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 ,Россия 1 (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 ,Россия 1 (+4)
@@ -141,49 +142,11 @@ https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb4638
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,Вечерняя Москва HD
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-
 #EXTINF:-1 ,РБК HD
 https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
 #EXTINF:-1,Москва24
 http://195.245.97.133:8800/play/moscou24/index.m3u8
-#EXTINF:-1,360News
-http://192.166.144.111:8008/play/a019/index.m3u8
-#EXTINF:-1,Luxury
-http://192.166.144.111:8008/play/a01l/index.m3u8
-#EXTINF:-1,Music Box Gold
-http://192.166.144.111:8008/play/a004/index.m3u8
-#EXTINF:-1,TVM
-http://192.166.144.111:8008/play/a01i/index.m3u8
-#EXTINF:-1,Ublog
-http://192.166.144.111:8008/play/a01q/index.m3u8
-#EXTINF:-1,Большая азия
-http://192.166.144.111:8008/play/a00z/index.m3u8
-#EXTINF:-1,Витрина ТВ
-http://192.166.144.111:8008/play/a010/index.m3u8
-#EXTINF:-1,Вместе
-http://192.166.144.111:8008/play/a01m/index.m3u8
-#EXTINF:-1,Калейдоскоп
-http://192.166.144.111:8008/play/a01k/index.m3u8
-#EXTINF:-1,КраснаяЛиния
-http://192.166.144.111:8008/play/a00v/index.m3u8
-#EXTINF:-1,Нано HD
-http://192.166.144.111:8008/play/a003/index.m3u8
-#EXTINF:-1,Продвижение
-http://192.166.144.111:8008/play/a00t/index.m3u8
-#EXTINF:-1,Союз
-http://192.166.144.111:8008/play/a00j/index.m3u8
-#EXTINF:-1,Тайна
-http://192.166.144.111:8008/play/a01h/index.m3u8
-#EXTINF:-1,Тномер
-http://192.166.144.111:8008/play/a00m/index.m3u8
-#EXTINF:-1,Точка ТВ
-http://192.166.144.111:8008/play/a018/index.m3u8
-#EXTINF:-1,Шансон
-http://192.166.144.111:8008/play/a01p/index.m3u8
-#EXTINF:-1,VIP Serial
-http://94.229.250.73:8008/play/a003
-#EXTINF:-1,Vostok-TV
-http://94.229.250.73:8008/play/a001
+
 
 
 #EXTINF:-1 tvg-logo="http://persik.tv/images/channels/logos/10243.png",National Geographic HD
