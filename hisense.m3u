@@ -208,6 +208,11 @@ http://persik.by/stream/7504/377885/895.m3u8
 #EXTINF:-1 ,AMEDIA Premium HD
 http://persik.by/stream/7504/377885/643.m3u8
 
+#EXTINF:-1 ,Discovery Science
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
+#EXTINF:-1 ,DTX
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
+
 
 
 
