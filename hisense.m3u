@@ -160,10 +160,16 @@ http://persik.by/stream/7504/377885/10238.m3u8
 http://persik.by/stream/7504/377885/10236.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://persik.by/stream/7504/377885/10280.m3u8
+#EXTINF:-1 ,Viasat Explore HD
+http://tv.streams.baikal-telecom.net/Viasat_Explorer/mpegts
 #EXTINF:-1 ,Viasat History
 http://persik.by/stream/7504/377885/10278.m3u8
+#EXTINF:-1 ,Viasat History HD
+http://tv.streams.baikal-telecom.net/Viasat_History/mpegts
 #EXTINF:-1 ,Viasat Nature
 http://persik.by/stream/7504/377885/10279.m3u8
+#EXTINF:-1 ,Viasat Nature HD
+http://tv.streams.baikal-telecom.net/Viasat_Nature/mpegts
 #EXTINF:-1 ,Viasat Sport
 http://persik.by/stream/7504/377885/10277.m3u8
 #EXTINF:-1 ,Авто Плюс
