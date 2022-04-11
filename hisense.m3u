@@ -131,21 +131,18 @@ https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 ,Наша Сибирь HD
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8
 
-
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/410338/HLS/6307840_7/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:-1 ,ТНТ4 
+#EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1 ,Пятница HD
 https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:-1 ,Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 ,РБК 
+#EXTINF:-1 ,РБК
 https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
-#EXTINF:-1 ,Вечерняя Москва 
+#EXTINF:-1 ,Вечерняя Москва
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-#EXTINF:-1,Москва24
-http://195.245.97.133:8800/play/moscou24/index.m3u8
 #EXTINF:-1 ,History HD
 https://sc.id-tv.kz/HistoryHD_36_37.m3u8
 #EXTINF:-1 ,H2 HD
@@ -153,78 +150,15 @@ https://sc.id-tv.kz/H2HD_36_37.m3u8
 #EXTINF:-1 ,Моя планета
 https://sc.id-tv.kz:443/MoyaPlaneta_34_35.m3u8
 
-
-#EXTINF:-1 ,TV 1000
-http://persik.by/stream/7504/377885/10237.m3u8
-#EXTINF:-1 ,TV 1000 Action
-http://persik.by/stream/7504/377885/10238.m3u8
-#EXTINF:-1 ,TV 1000 Русское кино
-http://persik.by/stream/7504/377885/10236.m3u8
-#EXTINF:-1 ,Viasat Explore
-http://persik.by/stream/7504/377885/10280.m3u8
 #EXTINF:-1 ,Viasat Explore HD
 http://tv.streams.baikal-telecom.net/Viasat_Explorer/mpegts
-#EXTINF:-1 ,Viasat History
-http://persik.by/stream/7504/377885/10278.m3u8
 #EXTINF:-1 ,Viasat History HD
 http://tv.streams.baikal-telecom.net/Viasat_History/mpegts
-#EXTINF:-1 ,Viasat Nature
-http://persik.by/stream/7504/377885/10279.m3u8
 #EXTINF:-1 ,Viasat Nature HD
 http://tv.streams.baikal-telecom.net/Viasat_Nature/mpegts
-#EXTINF:-1 ,Viasat Sport
-http://persik.by/stream/7504/377885/10277.m3u8
-#EXTINF:-1 ,Авто Плюс
-http://persik.by/stream/7504/377885/311.m3u8
-#EXTINF:-1 ,Беларусь 1 HD
-http://persik.by/stream/7504/377885/10405.m3u8
-#EXTINF:-1 ,Беларусь 2 HD
-http://persik.by/stream/7504/377885/10406.m3u8
-#EXTINF:-1 ,Беларусь 24 HD
-http://persik.by/stream/7504/377885/10712.m3u8
-#EXTINF:-1 ,Беларусь 3 HD
-http://persik.by/stream/7504/377885/10407.m3u8
-#EXTINF:-1 ,Беларусь 5 HD
-http://persik.by/stream/7504/377885/10408.m3u8
-#EXTINF:-1 ,ВТВ HD
-http://persik.by/stream/7504/377885/10719.m3u8
-#EXTINF:-1 ,Кинокомедия
-http://persik.by/stream/7504/377885/292.m3u8
-#EXTINF:-1 ,Киномикс
-http://persik.by/stream/7504/377885/608.m3u8
-#EXTINF:-1 ,Кинопремьера HD
-http://persik.by/stream/7504/377885/10240.m3u8
-#EXTINF:-1 ,Киносвидание
-http://persik.by/stream/7504/377885/30.m3u8
-#EXTINF:-1 ,Киносемья
-http://persik.by/stream/7504/377885/590.m3u8
-#EXTINF:-1 ,Киносерия
-http://persik.by/stream/7504/377885/278.m3u8
-#EXTINF:-1 ,Кинохит
-http://persik.by/stream/7504/377885/213.m3u8
-#EXTINF:-1 ,Мужское кино HD
-http://persik.by/stream/7504/377885/10368.m3u8
-#EXTINF:-1 ,Наше новое кино
-http://persik.by/stream/7504/377885/260.m3u8
-#EXTINF:-1 ,Родное кино
-http://persik.by/stream/7504/377885/312.m3u8
-#EXTINF:-1 ,AMEDIA 1 HD
-http://persik.by/stream/7504/377885/10380.m3u8
-#EXTINF:-1 ,Amedia 2
-http://persik.by/stream/7504/377885/727.m3u8
-#EXTINF:-1 ,AMEDIA HIT
-http://persik.by/stream/7504/377885/895.m3u8
-#EXTINF:-1 ,AMEDIA Premium HD
-http://persik.by/stream/7504/377885/643.m3u8
-
-#EXTINF:-1,Discovery
+#EXTINF:-1 ,Discovery
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
 #EXTINF:-1 ,Discovery Science
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1 ,DTX
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
-
-
-
-
-
