@@ -1,9 +1,5 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 ,Первый канал
-http://109.200.130.124:7007/play/a002
-#EXTINF:-1 ,Первый канал HD
-http://109.200.130.124:7007/play/a014
 #EXTINF:-1 ,Россия 1
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 ,Россия 1 (+2)
@@ -30,8 +26,6 @@ https://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_4/variant.m3u8
 #EXTINF:-1 ,НТВ (+7)
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_7/variant.m3u8
-#EXTINF:-1 ,Рен ТВ
-http://91.210.251.19:4866/udp/239.0.1.6:4000
 #EXTINF:-1 ,РЕН ТВ (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 ,РЕН ТВ (+4)
@@ -143,6 +137,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
 #EXTINF:-1 ,Вечерняя Москва
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:-1 ,National Geographic HD
+https://sc.id-tv.kz:443/NatGeogHD_34_35.m3u8
 #EXTINF:-1 ,History HD
 https://sc.id-tv.kz/HistoryHD_36_37.m3u8
 #EXTINF:-1 ,H2 HD
@@ -165,26 +161,16 @@ http://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,VIP Serial
 http://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1,TВ 1000
-http://109.200.130.124:7000/play/a003
-#EXTINF:-1,TВ 1000 Action
-http://109.200.130.124:7000/play/a004
-#EXTINF:-1,TB 1000 Русское кино
-http://109.200.130.124:7000/play/a005
-#EXTINF:-1,Nat Geo Wild HD
-http://109.200.130.124:7002/play/a019
-#EXTINF:-1,National Geographic HD
-http://109.200.130.124:7002/play/a013
-
-#EXTINF:-1 ,Viasat Explore HD
-http://tv.streams.baikal-telecom.net/Viasat_Explorer/mpegts
-#EXTINF:-1 ,Viasat History HD
-http://tv.streams.baikal-telecom.net/Viasat_History/mpegts
-#EXTINF:-1 ,Viasat Nature HD
-http://tv.streams.baikal-telecom.net/Viasat_Nature/mpegts
+#EXTINF:-1 ,Animal Planet
+http://194.58.42.152:8000/play/animalplanethd/index.m3u8
 #EXTINF:-1 ,Discovery
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
 #EXTINF:-1 ,Discovery Science
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1 ,DTX
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
+#EXTINF:-1 ,Первый космический HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace
+
+
+
