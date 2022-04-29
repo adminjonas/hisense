@@ -1,5 +1,7 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
+#EXTINF:-1 ,Первый канал
+http://50.7.188.186/Pervikanal/mono.m3u8
 #EXTINF:-1 ,Россия 1
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 ,Россия 1 (+2)
