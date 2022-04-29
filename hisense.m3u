@@ -28,6 +28,8 @@ https://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_4/variant.m3u8
 #EXTINF:-1 ,НТВ (+7)
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_7/variant.m3u8
+#EXTINF:-1 ,РЕН ТВ 
+https://s91412.cdn.ngenix.net/mdrm/CH_RENTV/variant.m3u8
 #EXTINF:-1 ,РЕН ТВ (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 ,РЕН ТВ (+4)
