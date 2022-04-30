@@ -129,6 +129,17 @@ https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 ,Наша Сибирь HD
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8
 
+#EXTINF:-1 group-title="Беларусь",Беларусь 1
+http://foreign-default.persik.by:82/live/Ch73/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 2
+http://foreign-default.persik.by:82/live/Ch64/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 3
+http://foreign-default.persik.by:82/live/Ch71/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 5
+http://foreign-default.persik.by:82/live/Ch81/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 24
+http://foreign-default.persik.by:82/live/Ch200/index.m3u8
+
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/410338/HLS/6307840_7/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
