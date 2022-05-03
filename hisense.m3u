@@ -2,7 +2,7 @@
 
 #EXTINF:0,Первый канал HD
 #EXTGRP:unsorted
-https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
+http://50.7.188.186/Pervyiy_HD/mono.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP:unsorted
 http://50.7.188.186/Pervikanal/mono.m3u8
@@ -204,6 +204,9 @@ https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:0,Наша Сибирь HD
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8
+#EXTINF:0,Love Nature HD
+#EXTGRP:unsorted
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:0,Беларусь 1
 #EXTGRP:unsorted
 http://foreign-default.persik.by:82/live/Ch73/index.m3u8
@@ -239,6 +242,9 @@ https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb4638
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=subbota
 #EXTINF:0,Известия HD
 #EXTGRP:unsorted
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:0,Известия
+#EXTGRP:unsorted
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,РБК
 #EXTGRP:unsorted
@@ -246,60 +252,129 @@ https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
 #EXTINF:0,Вечерняя Москва
 #EXTGRP:unsorted
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:0,Дом кино
+#EXTGRP:unsorted
+http://str1.tvcom.uz/61/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
+#EXTINF:0,Дом кино Премиум
+#EXTGRP:unsorted
+http://109.200.130.124:7001/play/a006
+#EXTINF:0,Русский роман
+#EXTGRP:unsorted
+http://50.7.188.186/Russkiy_roman/mono.m3u8
+#EXTINF:0,Русский роман HD
+#EXTGRP:unsorted
+http://50.7.92.90/Russkiy_roman_HD/mono.m3u8
 #EXTINF:0,TV 1000
 #EXTGRP:unsorted
 http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,TV1000 HD
+#EXTGRP:unsorted
+http://50.7.188.186/TV1000_HD/mono.m3u8
 #EXTINF:0,TV 1000 Action
 #EXTGRP:unsorted
 http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,TV1000 Action HD
+#EXTGRP:unsorted
+http://50.7.188.186/TV1000ActionHD/mono.m3u8
 #EXTINF:0,TV1000 Русское Кино
 #EXTGRP:unsorted
 http://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,TV1000 Русское кино HD
+#EXTGRP:unsorted
+http://50.7.188.186/TV1000RusskoeHD/mono.m3u8
+#EXTINF:0,VIP Comedy HD
+#EXTGRP:unsorted
+http://cdnua06.hls.tv/476/hls/6xktvi9psazw7cr438j0u1nqbh2m5ged/309/stream.m3u8
 #EXTINF:0,VIP Comedy
 #EXTGRP:unsorted
 http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,VIP Premiere HD
+#EXTGRP:unsorted
+http://cdnua06.hls.tv/476/hls/vh3mwx4z7p1ekjqc2uil0osrtdg8by5n/3980/stream.m3u8
 #EXTINF:0,VIP Premiere
 #EXTGRP:unsorted
 http://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,VIP Megahit HD
+#EXTGRP:unsorted
+http://cdnua06.hls.tv/476/hls/ei5dxu67vb8wzcr4so3ql2f10mp9jakg/3981/stream.m3u8
 #EXTINF:0,VIP Megahit
 #EXTGRP:unsorted
 http://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,Vip Serial HD
+#EXTGRP:unsorted
+http://50.7.188.186/VIP_Serial_HD/mono.m3u8
 #EXTINF:0,VIP Serial
 #EXTGRP:unsorted
 http://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:unsorted
+http://50.7.188.186/Animal_Planet_HD/mono.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:unsorted
 http://194.58.42.152:8000/play/animalplanethd/index.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:unsorted
+http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9bmF0Z2VvLzE2L3BsYXlsaXN0Lm0zdTg=
 #EXTINF:0,National Geographic HD
 #EXTGRP:unsorted
-https://sc.id-tv.kz:443/NatGeogHD_34_35.m3u8
+http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9bmF0aW9uYWxfZ2VvZ3JhcGhpY19oZC8xNi9wbGF5bGlzdC5tM3U4
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:unsorted
+https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZS9DaDMzNC9pbmRleC5tM3U4
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:unsorted
+http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9bmF0X2dlb193aWxkX2hkLzE2L3BsYXlsaXN0Lm0zdTg=
 #EXTINF:0,Viasat Explore HD
 #EXTGRP:unsorted
-http://50.7.188.186/Viasat_Explorer/mono.m3u8
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,Viasat Explore
+#EXTGRP:unsorted
+http://cdnua06.hls.tv/476/hls/fzkg4bo1tci63eurhl9wvmjdpxq8sy5n/322/stream.m3u8
 #EXTINF:0,Viasat History HD
 #EXTGRP:unsorted
 http://50.7.188.186/Viasat_History_HD/mono.m3u8
+#EXTINF:0,Viasat History
+#EXTGRP:unsorted
+http://cdnua06.hls.tv/476/hls/uonjkzl82eg56x3bvf7r10cid94swamp/327/stream.m3u8
+#EXTINF:0,Viasat Nature HD
+#EXTGRP:unsorted
+http://cdnua06.hls.tv/476/hls/1nelpf6my7bz9qa5ji03rvgd8tcuxo2k/328/stream.m3u8
+#EXTINF:0,Viasat Nature
+#EXTGRP:unsorted
+https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZS9DaDI2NS9pbmRleC5tM3U4
 #EXTINF:0,History HD
 #EXTGRP:unsorted
-https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+http://cdnua06.hls.tv/476/hls/87iwfpo6xjv3h4g2amneltybr9s05qcd/244/stream.m3u8
 #EXTINF:0,H2 HD
 #EXTGRP:unsorted
-https://sc.id-tv.kz/H2HD_36_37.m3u8
+http://50.7.92.90/H2_HD/mono.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:unsorted
+http://cdnua06.hls.tv/476/hls/98avsntbi7p3r6j4z1que0lcwgyo52fm/4709/stream.m3u8
 #EXTINF:0,Discovery
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
 #EXTINF:0,Investigation Discovery HD
 #EXTGRP:unsorted
+http://cdnua06.hls.tv/476/hls/k8z9njp47a3bl0dmx2frqw5ve1uyiost/254/stream.m3u8
+#EXTINF:0,Investigation Discovery
+#EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryxtra
+#EXTINF:0,Discovery Science HD
+#EXTGRP:unsorted
+http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/206/stream.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
+#EXTINF:0,DTX HD
+#EXTGRP:unsorted
+http://lb.wisp.cat/lb0/DTX/video.m3u8?token=FREETVUKRAINE
 #EXTINF:0,DTX
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
 #EXTINF:0,Моя планета
 #EXTGRP:unsorted
-https://sc.id-tv.kz:443/MoyaPlaneta_34_35.m3u8
+http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9bXlfcGxhbmV0LzE2L3BsYXlsaXN0Lm0zdTg=
 #EXTINF:0,Живая планета
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9emhpdmF5YV9wbGFuZXRhLzE2L3BsYXlsaXN0Lm0zdTg=
@@ -309,3 +384,9 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 #EXTINF:0,Первый космический HD
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace
+#EXTINF:0,Galaxy
+#EXTGRP:unsorted
+http://etmye7lh.russtv.net/iptv/EE9RXYT5D3SNZU/5045/index.m3u8
+#EXTINF:0,Космо HD
+#EXTGRP:unsorted
+https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2UtMDEtcHViLnBlcnNpay5ieTo4Mi9saXZlL0NoMDcwcHViL2luZGV4Lm0zdTg=
