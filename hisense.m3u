@@ -2,10 +2,10 @@
 
 #EXTINF:0,Первый канал HD
 #EXTGRP:unsorted
-http://50.7.188.186/Pervyiy_HD/mono.m3u8
+http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP:unsorted
-http://50.7.188.186/Pervikanal/mono.m3u8
+http://50.7.188.186/Pervyiy_HD/mono.m3u8
 #EXTINF:0,Россия HD
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9cnVzc2lhaGQvMTYvcGxheWxpc3QubTN1OA==
