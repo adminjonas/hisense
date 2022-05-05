@@ -75,16 +75,16 @@ https://s91412.cdn.ngenix.net/mdrm/CH_MIR_4/variant.m3u8
 #EXTINF:0,Мир (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR_7/variant.m3u8
-#EXTINF:0,ТВ Центр
+#EXTINF:0,ТВЦ
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC/variant.m3u8
-#EXTINF:0,ТВ Центр (+2)
+#EXTINF:0,ТВЦ (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_2/variant.m3u8
-#EXTINF:0,ТВ Центр (+4)
+#EXTINF:0,ТВЦ (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_4/variant.m3u8
-#EXTINF:0,ТВ Центр (+7)
+#EXTINF:0,ТВЦ (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_7/variant.m3u8
 #EXTINF:0,Звезда HD
@@ -138,16 +138,16 @@ https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:0,Домашний (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:0,Че!
+#EXTINF:0,Че
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_PERETZ/variant.m3u8
-#EXTINF:0,Че! (+2)
+#EXTINF:0,Че (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_CHE_2/variant.m3u8
-#EXTINF:0,Че! (+4)
+#EXTINF:0,Че (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_CHE_4/variant.m3u8
-#EXTINF:0,Че! (+7)
+#EXTINF:0,Че (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_PERETZ_7/variant.m3u8
 #EXTINF:0,Карусель
