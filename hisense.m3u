@@ -75,16 +75,16 @@ https://s91412.cdn.ngenix.net/mdrm/CH_MIR_4/variant.m3u8
 #EXTINF:0,Мир (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR_7/variant.m3u8
-#EXTINF:0,ТВЦ
+#EXTINF:0,ТВ Центр
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC/variant.m3u8
-#EXTINF:0,ТВЦ (+2)
+#EXTINF:0,ТВ Центр (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_2/variant.m3u8
-#EXTINF:0,ТВЦ (+4)
+#EXTINF:0,ТВ Центр (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_4/variant.m3u8
-#EXTINF:0,ТВЦ (+7)
+#EXTINF:0,ТВ Центр (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_7/variant.m3u8
 #EXTINF:0,Звезда HD
