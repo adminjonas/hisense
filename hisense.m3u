@@ -1,389 +1,389 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:0,Первый канал HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/983.png",Первый канал HD
 #EXTGRP:unsorted
 http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8
-#EXTINF:0,Первый канал
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
 #EXTGRP:unsorted
 http://50.7.188.186/Pervyiy_HD/mono.m3u8
-#EXTINF:0,Россия HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/984.png",Россия HD
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9cnVzc2lhaGQvMTYvcGxheWxpc3QubTN1OA==
-#EXTINF:0,Россия 1
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/711.png",Россия 1
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8
-#EXTINF:0,Россия 1 (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3000.png",Россия 1 (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:0,Россия 1 (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3001.png",Россия 1 (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:0,Россия 1 (+6)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3002.png",Россия 1 (+6)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:0,Россия К
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/187.png",Россия К
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK/variant.m3u8
-#EXTINF:0,Россия К (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/187.png",Россия К (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:0,Россия К (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/187.png",Россия К (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:0,Россия К (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/187.png",Россия К (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:0,Россия 24
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1683.png",Россия 24
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA24/variant.m3u8
-#EXTINF:0,НТВ HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvhd
-#EXTINF:0,НТВ
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/162.png",НТВ
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV/variant.m3u8
-#EXTINF:0,НТВ (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2036.png",НТВ (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8
-#EXTINF:0,НТВ (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2964.png",НТВ (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_4/variant.m3u8
-#EXTINF:0,НТВ (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3028.png",НТВ (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_7/variant.m3u8
-#EXTINF:0,РЕН ТВ
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV/variant.m3u8
-#EXTINF:0,РЕН ТВ (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2037.png",РЕН ТВ (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_2/variant.m3u8
-#EXTINF:0,РЕН ТВ (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3033.png",РЕН ТВ (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_4/variant.m3u8
-#EXTINF:0,РЕН ТВ (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3034.png",РЕН ТВ (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_7/variant.m3u8
-#EXTINF:0,Мир
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/726.png",Мир
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8
-#EXTINF:0,Мир (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3019.png",Мир (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR_2/variant.m3u8
-#EXTINF:0,Мир (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3020.png",Мир (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR_4/variant.m3u8
-#EXTINF:0,Мир (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3021.png",Мир (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR_7/variant.m3u8
-#EXTINF:0,ТВ Центр
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC/variant.m3u8
-#EXTINF:0,ТВ Центр (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2038.png",ТВ Центр (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_2/variant.m3u8
-#EXTINF:0,ТВ Центр (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3037.png",ТВ Центр (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_4/variant.m3u8
-#EXTINF:0,ТВ Центр (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3038.png",ТВ Центр (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_7/variant.m3u8
-#EXTINF:0,Звезда HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 #EXTGRP:unsorted
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:0,Звезда
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/405.png",Звезда
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA/variant.m3u8
-#EXTINF:0,Звезда (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2039.png",Звезда (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:0,Звезда (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3035.png",Звезда (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:0,Звезда (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3036.png",Звезда (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:0,ОТР
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1000.png",ОТР
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_OTR/variant.m3u8
-#EXTINF:0,СТС
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/79.png",СТС
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_STS/variant.m3u8
-#EXTINF:0,СТС (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3007.png",СТС (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_STS_2/variant.m3u8
-#EXTINF:0,СТС (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3008.png",СТС (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_STS_4/variant.m3u8
-#EXTINF:0,СТС (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3009.png",СТС (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_STS_7/variant.m3u8
-#EXTINF:0,СТС Love
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1322.png",СТС Love
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE/variant.m3u8
-#EXTINF:0,СТС Love (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1322.png",СТС Love (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE_2/variant.m3u8
-#EXTINF:0,СТС Love (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1322.png",СТС Love (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE_7/variant.m3u8
-#EXTINF:0,Домашний
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY/variant.m3u8
-#EXTINF:0,Домашний (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3010.png",Домашний (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:0,Домашний (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3011.png",Домашний (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:0,Домашний (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3012.png",Домашний (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:0,Че
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1598.png",Че
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_PERETZ/variant.m3u8
-#EXTINF:0,Че (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1598.png",Че (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_CHE_2/variant.m3u8
-#EXTINF:0,Че (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1598.png",Че (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_CHE_4/variant.m3u8
-#EXTINF:0,Че (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1598.png",Че (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_PERETZ_7/variant.m3u8
-#EXTINF:0,Карусель
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/740.png",Карусель
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL/variant.m3u8
-#EXTINF:0,Карусель (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/740.png",Карусель (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_2/variant.m3u8
-#EXTINF:0,Карусель (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/740.png",Карусель (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_4/variant.m3u8
-#EXTINF:0,Карусель (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1107.png",Карусель (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_7/variant.m3u8
-#EXTINF:0,Канал Disney
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/150.png",Канал Disney
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/variant.m3u8
-#EXTINF:0,Канал Disney (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/150.png",Канал Disney (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_2/variant.m3u8
-#EXTINF:0,Канал Disney (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/150.png",Канал Disney (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_4/variant.m3u8
-#EXTINF:0,Канал Disney (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/150.png",Канал Disney (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_7/variant.m3u8
-#EXTINF:0,Муз ТВ
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/897.png",Муз ТВ
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV/variant.m3u8
-#EXTINF:0,Муз ТВ (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/897.png",Муз ТВ (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_2/variant.m3u8
-#EXTINF:0,Муз ТВ (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/897.png",Муз ТВ (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_7/variant.m3u8
-#EXTINF:0,Ю ТВ
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/898.png",Ю ТВ
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_U/variant.m3u8
-#EXTINF:0,Ю ТВ (+2)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/898.png",Ю ТВ (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_U_2/variant.m3u8
-#EXTINF:0,Ю ТВ (+4)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/898.png",Ю ТВ (+4)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_U_4/variant.m3u8
-#EXTINF:0,Ю ТВ (+7)
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/898.png",Ю ТВ (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_U_7/variant.m3u8
-#EXTINF:0,Спас
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2141.png",Спас
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_SPAS/variant.m3u8
-#EXTINF:0,Наша Сибирь
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2746.png",Наша Сибирь
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8
-#EXTINF:0,Наша Сибирь HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4444.png",Наша Сибирь HD
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8
-#EXTINF:0,Love Nature HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3919.png",Love Nature HD
 #EXTGRP:unsorted
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:0,Беларусь 1
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2538.png",Беларусь 1
 #EXTGRP:unsorted
 https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZWhxL0NoMzIwaGQvaW5kZXgubTN1OA==
-#EXTINF:0,Беларусь 3
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2540.png",Беларусь 3
 #EXTGRP:unsorted
 https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZWhxL0NoMzIyL2luZGV4Lm0zdTg=
-#EXTINF:0,Беларусь 5
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2541.png",Беларусь 5
 #EXTGRP:unsorted
 https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZWhxL0NoMzIzaGQvaW5kZXgubTN1OA==
-#EXTINF:0,Беларусь 24
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2170.png",Беларусь 24
 #EXTGRP:unsorted
 https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZWhxL0NoMjAwaGQvaW5kZXgubTN1OA==
-#EXTINF:0,ТНТ HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1767.png",ТНТ HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/410338/HLS/6307840_7/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:0,ТНТ
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/353.png",ТНТ
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnt
-#EXTINF:0,ТНТ4 HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:0,ТНТ4 
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9dG50NC8xNi9wbGF5bGlzdC5tM3U4
-#EXTINF:0,Пятница HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
-#EXTINF:0,Суббота HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/5604.png",Суббота HD
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=subbota
-#EXTINF:0,Известия HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 #EXTGRP:unsorted
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:0,Известия
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2271.png",Известия
 #EXTGRP:unsorted
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:0,РБК
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/743.png",РБК
 #EXTGRP:unsorted
 https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
-#EXTINF:0,Вечерняя Москва
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Vmlogo2012.png?uselang=ru",Вечерняя Москва
 #EXTGRP:unsorted
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-#EXTINF:0,Дом кино
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/834.png",Дом кино
 #EXTGRP:unsorted
 http://str1.tvcom.uz/61/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
-#EXTINF:0,Дом кино Премиум
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2020.png",Дом кино Премиум
 #EXTGRP:unsorted
 http://109.200.130.124:7001/play/a006
-#EXTINF:0,Русский роман
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/401.png",Русский роман
 #EXTGRP:unsorted
 http://50.7.188.186/Russkiy_roman/mono.m3u8
-#EXTINF:0,Русский роман HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/401.png",Русский роман HD
 #EXTGRP:unsorted
 http://50.7.92.90/Russkiy_roman_HD/mono.m3u8
-#EXTINF:0,TV 1000
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/127.png",TV 1000
 #EXTGRP:unsorted
 http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,TV1000 HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/127.png",TV1000 HD
 #EXTGRP:unsorted
 http://50.7.188.186/TV1000_HD/mono.m3u8
-#EXTINF:0,TV 1000 Action
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/125.png",TV 1000 Action
 #EXTGRP:unsorted
 http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,TV1000 Action HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/125.png",TV1000 Action HD
 #EXTGRP:unsorted
 http://50.7.188.186/TV1000ActionHD/mono.m3u8
-#EXTINF:0,TV1000 Русское Кино
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/267.png",TV1000 Русское Кино
 #EXTGRP:unsorted
 http://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,TV1000 Русское кино HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/267.png",TV1000 Русское кино HD
 #EXTGRP:unsorted
 http://50.7.188.186/TV1000RusskoeHD/mono.m3u8
-#EXTINF:0,VIP Comedy HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1011.png",VIP Comedy HD
 #EXTGRP:unsorted
 http://cdnua06.hls.tv/476/hls/6xktvi9psazw7cr438j0u1nqbh2m5ged/309/stream.m3u8
-#EXTINF:0,VIP Comedy
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1011.png",VIP Comedy
 #EXTGRP:unsorted
 http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,VIP Premiere HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1013.png",VIP Premiere HD
 #EXTGRP:unsorted
 http://cdnua06.hls.tv/476/hls/vh3mwx4z7p1ekjqc2uil0osrtdg8by5n/3980/stream.m3u8
-#EXTINF:0,VIP Premiere
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1013.png",VIP Premiere
 #EXTGRP:unsorted
 http://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,VIP Megahit HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1012.png",VIP Megahit HD
 #EXTGRP:unsorted
 http://cdnua06.hls.tv/476/hls/ei5dxu67vb8wzcr4so3ql2f10mp9jakg/3981/stream.m3u8
-#EXTINF:0,VIP Megahit
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1012.png",VIP Megahit
 #EXTGRP:unsorted
 http://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,Vip Serial HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2838.png",Vip Serial HD
 #EXTGRP:unsorted
 http://50.7.188.186/VIP_Serial_HD/mono.m3u8
-#EXTINF:0,VIP Serial
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2838.png",VIP Serial
 #EXTGRP:unsorted
 http://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,Animal Planet HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/365.png",Animal Planet HD
 #EXTGRP:unsorted
 http://50.7.188.186/Animal_Planet_HD/mono.m3u8
-#EXTINF:0,Animal Planet
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/365.png",Animal Planet
 #EXTGRP:unsorted
 http://194.58.42.152:8000/play/animalplanethd/index.m3u8
-#EXTINF:0,National Geographic
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3760.png",National Geographic
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9bmF0Z2VvLzE2L3BsYXlsaXN0Lm0zdTg=
-#EXTINF:0,National Geographic HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3733.png",National Geographic HD
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9bmF0aW9uYWxfZ2VvZ3JhcGhpY19oZC8xNi9wbGF5bGlzdC5tM3U4
-#EXTINF:0,Nat Geo Wild
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4311.png",Nat Geo Wild
 #EXTGRP:unsorted
 https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZS9DaDMzNC9pbmRleC5tM3U4
-#EXTINF:0,Nat Geo Wild HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4475.png",Nat Geo Wild HD
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9bmF0X2dlb193aWxkX2hkLzE2L3BsYXlsaXN0Lm0zdTg=
-#EXTINF:0,Viasat Explore HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4815.png",Viasat Explore HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,Viasat Explore
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/521.png",Viasat Explore
 #EXTGRP:unsorted
 http://cdnua06.hls.tv/476/hls/fzkg4bo1tci63eurhl9wvmjdpxq8sy5n/322/stream.m3u8
-#EXTINF:0,Viasat History HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4826.png",Viasat History HD
 #EXTGRP:unsorted
 http://50.7.188.186/Viasat_History_HD/mono.m3u8
-#EXTINF:0,Viasat History
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3722.png",Viasat History
 #EXTGRP:unsorted
 http://cdnua06.hls.tv/476/hls/uonjkzl82eg56x3bvf7r10cid94swamp/327/stream.m3u8
-#EXTINF:0,Viasat Nature HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3779.png",Viasat Nature HD
 #EXTGRP:unsorted
 http://cdnua06.hls.tv/476/hls/1nelpf6my7bz9qa5ji03rvgd8tcuxo2k/328/stream.m3u8
-#EXTINF:0,Viasat Nature
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/765.png",Viasat Nature
 #EXTGRP:unsorted
 https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZS9DaDI2NS9pbmRleC5tM3U4
-#EXTINF:0,History HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4826.png",History HD
 #EXTGRP:unsorted
 http://cdnua06.hls.tv/476/hls/87iwfpo6xjv3h4g2amneltybr9s05qcd/244/stream.m3u8
-#EXTINF:0,H2 HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2356.png",H2 HD
 #EXTGRP:unsorted
 http://50.7.92.90/H2_HD/mono.m3u8
-#EXTINF:0,Discovery Channel HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/325.png",Discovery Channel HD
 #EXTGRP:unsorted
 http://cdnua06.hls.tv/476/hls/98avsntbi7p3r6j4z1que0lcwgyo52fm/4709/stream.m3u8
-#EXTINF:0,Discovery Channel
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/325.png",Discovery Channel
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
-#EXTINF:0,Investigation Discovery HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3699.png",Investigation Discovery HD
 #EXTGRP:unsorted
 http://cdnua06.hls.tv/476/hls/k8z9njp47a3bl0dmx2frqw5ve1uyiost/254/stream.m3u8
-#EXTINF:0,Investigation Discovery
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3699.png",Investigation Discovery
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryxtra
-#EXTINF:0,Discovery Science HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/409.png",Discovery Science HD
 #EXTGRP:unsorted
 http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/206/stream.m3u8
-#EXTINF:0,Discovery Science
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/409.png",Discovery Science
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
-#EXTINF:0,DTX HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2485.png",DTX HD
 #EXTGRP:unsorted
 https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cHM6Ly9zaDE3MDgwNjMuYi5oYWQuc3UvUGFyc1hNTC9Ta3kyMDAwLnBocD9uYW1lPTkyLjkwL0RUWF9IRC9tb25vLm0zdTg=
-#EXTINF:0,DTX
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3772.png",DTX
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
-#EXTINF:0,Моя планета
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/675.png",Моя планета
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9bXlfcGxhbmV0LzE2L3BsYXlsaXN0Lm0zdTg=
-#EXTINF:0,Живая планета
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2432.png",Живая планета
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9emhpdmF5YV9wbGFuZXRhLzE2L3BsYXlsaXN0Lm0zdTg=
-#EXTINF:0,Приключения HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2311.png",Приключения HD
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
-#EXTINF:0,Первый космический HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2310.png",Первый космический HD
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace
-#EXTINF:0,Galaxy
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2418.png",Galaxy
 #EXTGRP:unsorted
 http://etmye7lh.russtv.net/iptv/EE9RXYT5D3SNZU/5045/index.m3u8
-#EXTINF:0,Космо HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4778.png",Космо HD
 #EXTGRP:unsorted
-https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2UtMDEtcHViLnBlcnNpay5ieTo4Mi9saXZlL0NoMDcwcHViL2luZGV4Lm0zdTg=
+https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2
