@@ -231,7 +231,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d1
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9dG50NC8xNi9wbGF5bGlzdC5tM3U4
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2765.png",Пятница HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/5604.png",Суббота HD
@@ -261,6 +261,27 @@ http://50.7.188.186/Russkiy_roman/mono.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/401.png",Русский роман HD
 #EXTGRP:unsorted
 http://50.7.92.90/Russkiy_roman_HD/mono.m3u8
+#EXTINF:-0 http://epg.it999.ru/img2/.1570png,Русский Детектив
+#EXTGRP:unsorted
+http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/799.png",Киносерия
+#EXTGRP:unsorted
+http://st1.astra-uk.ru:81/3300cbc9af590772bae4cbaa47a03a68/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png",.black
+#EXTGRP:unsorted
+http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8?ts
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png",.sci-fi
+#EXTGRP:unsorted
+http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2007.png" ,Amedia Hit
+#EXTGRP:unsorted
+http://st1.astra-uk.ru:81/0eb5fb21bfa6734a7347087a6fb20fd4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2492.png" ,Amedia 2
+#EXTGRP:unsorted
+http://st1.astra-uk.ru:81/1597a5a9948014489de663c8fb4438db/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1372.png" ,Amedia Premium HD
+#EXTGRP:unsorted
+http://st1.astra-uk.ru:81/22773eeb20de8c8bdf0fd5580190356b/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/127.png",TV 1000
 #EXTGRP:unsorted
 http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
