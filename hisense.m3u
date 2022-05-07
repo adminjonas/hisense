@@ -252,9 +252,12 @@ http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/834.png",Дом кино
 #EXTGRP:unsorted
 http://str1.tvcom.uz/61/video.m3u8?token=d14f8f0a6ae6dea981cdf7bebe199fa7
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2020.png",Дом кино Премиум
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2020.png",Дом кино Премиум HD
 #EXTGRP:unsorted
 http://109.200.130.124:7001/play/a006
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2020.png",Дом кино Премиум
+#EXTGRP:unsorted
+http://195.245.97.133:8000/channel116.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/401.png",Русский роман
 #EXTGRP:unsorted
 http://50.7.188.186/Russkiy_roman/mono.m3u8
