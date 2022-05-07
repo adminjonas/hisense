@@ -231,7 +231,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d1
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9dG50NC8xNi9wbGF5bGlzdC5tM3U4
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2765.png",Пятница HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/5604.png",Суббота HD
@@ -370,7 +370,7 @@ http://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 http://50.7.188.186/Animal_Planet_HD/mono.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/365.png",Animal Planet
 #EXTGRP:unsorted
-http://194.58.42.152:8000/play/animalplanethd/index.m3u8
+http://cdnua06.hls.tv/476/hls/lofksujyxti7d18v52ge4qpcwhrmb9z3/4706/stream.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3760.png",National Geographic
 #EXTGRP:unsorted
 http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9bmF0Z2VvLzE2L3BsYXlsaXN0Lm0zdTg=
