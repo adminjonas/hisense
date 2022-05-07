@@ -261,7 +261,7 @@ http://50.7.188.186/Russkiy_roman/mono.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/401.png",Русский роман HD
 #EXTGRP:unsorted
 http://50.7.92.90/Russkiy_roman_HD/mono.m3u8
-#EXTINF:-0 http://epg.it999.ru/img2/.1570png,Русский Детектив
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/.1570.png",Русский Детектив
 #EXTGRP:unsorted
 http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/799.png",Киносерия
