@@ -440,16 +440,15 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2310.png",Первый космический HD
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2418.png",Galaxy HD
-#EXTGRP:unsorted
-http://etmye7lh.russtv.net/iptv/EE9RXYT5D3SNZU/5045/index.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2418.png",Galaxy HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2418.png",Galaxy 
 #EXTGRP:unsorted
 http://lb.wisp.cat/lb0/Galaxy/video.m3u8?token=FREETVUKRAINE
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4778.png",Космо HD
 #EXTGRP:unsorted
 https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2
-
+#EXTINF:-0 tvg-logo="http://persik.tv/images/channels/logos/10487.png",Роскосмос HD
+#EXTGRP:unsorted
+https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2UtMDEtcHViLnBlcnNpay5ieTo4Mi9saXZlL0NoMDEzcHViL2luZGV4Lm0zdTg=
 
 
 
