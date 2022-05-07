@@ -283,7 +283,7 @@ http://50.7.92.90/kinoujas_tv/mono.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1037.png",Кино ТВ HD
 #EXTGRP:unsorted
 http://50.7.92.90/Kino_TV_HD/mono.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2836.png",Камеди HD
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/138.png",Комедийное HD
 #EXTGRP:unsorted
 http://50.7.92.90/Kinopokaz_HD2/mono.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2309.png",Шокирующее HD
@@ -298,9 +298,6 @@ http://50.7.92.90/Kino_premium_HD/mono.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1395.png",Bollywood HD
 #EXTGRP:unsorted
 http://50.7.92.90/Bollywood_HD/mono.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
-#EXTGRP:unsorted
-http://50.7.92.90/Domashniy/mono.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2018.png",Наше крутое HD
 #EXTGRP:unsorted
 http://50.7.92.90/Nashe_HD/mono.m3u8
