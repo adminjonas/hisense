@@ -267,10 +267,10 @@ http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/799.png",Киносерия
 #EXTGRP:unsorted
 http://st1.astra-uk.ru:81/3300cbc9af590772bae4cbaa47a03a68/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png",.black
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png",Sony Turbo
 #EXTGRP:unsorted
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8?ts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png",.sci-fi
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png",Sony Sci-Fi
 #EXTGRP:unsorted
 http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2007.png" ,Amedia Hit
