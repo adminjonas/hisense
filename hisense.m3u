@@ -243,6 +243,9 @@ https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2271.png",Известия
 #EXTGRP:unsorted
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg",Cоловьев Live
+#EXTGRP:unsorted
+https://a787200812-s27836.cdn.ngenix.net/hls2/givc1_hd/playlist_6.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/743.png",РБК
 #EXTGRP:unsorted
 https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
@@ -304,6 +307,9 @@ http://50.7.92.90/Bollywood_HD/mono.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2018.png",Наше крутое HD
 #EXTGRP:unsorted
 http://50.7.92.90/Nashe_HD/mono.m3u8
+#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/3357.png",Мосфильм. Золотая коллекция HD
+#EXTGRP:unsorted
+http://128.0.27.41:8080/239.211.200.42/mpegts
 
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/799.png",Киносерия
 #EXTGRP:unsorted
