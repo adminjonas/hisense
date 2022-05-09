@@ -38,7 +38,7 @@ https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_7/variant.m3u8
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA24/variant.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:unsorted
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvhd
+http://50.7.188.186/NTV_HD/mono.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/162.png",НТВ
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV/variant.m3u8
