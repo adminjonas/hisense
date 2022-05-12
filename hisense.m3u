@@ -92,7 +92,7 @@ https://s91412.cdn.ngenix.net/mdrm/CH_TVC_7/variant.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 #EXTGRP:unsorted
-https://ott.alwaysdata.net/channel.php?hash=70453a948531d16ac14207b70cab3352:aHR0cHM6Ly9vdHQuYWx3YXlzZGF0YS5uZXQvcGxheS5waHA/aWQ9MTUxMTUmZXh0PWluZGV4Lm0zdTg=
+http://zigfreed.ru:81/CH/9e5faaa7dac5c9564522000e944d2595/index.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/405.png",Звезда
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA/variant.m3u8
@@ -107,7 +107,7 @@ https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_4/variant.m3u8
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:0 tvg-logo="http://epg.it999.ru/img2/4661.png",Звезда Плюс
 #EXTGRP:unsorted
-https://ott.alwaysdata.net/channel.php?hash=70453a948531d16ac14207b70cab3352:aHR0cHM6Ly9vdHQuYWx3YXlzZGF0YS5uZXQvcGxheS5waHA/aWQ9MTAwNTkmZXh0PWluZGV4Lm0zdTg=
+http://zigfreed.ru:81/CH/54f06b9cb6d19b326d30bd776cff526a/index.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1000.png",ОТР
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_OTR/variant.m3u8
