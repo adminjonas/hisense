@@ -63,6 +63,9 @@ https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_4/variant.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3034.png",РЕН ТВ (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_7/variant.m3u8
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
+#EXTGRP:unsorted
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/726.png",Мир
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8
@@ -75,6 +78,9 @@ https://s91412.cdn.ngenix.net/mdrm/CH_MIR_4/variant.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3021.png",Мир (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR_7/variant.m3u8
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24 HD
+#EXTGRP:unsorted
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC/variant.m3u8
