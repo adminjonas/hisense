@@ -392,6 +392,11 @@ http://lb.wisp.cat/lb0/Galaxy/video.m3u8?token=FREETVUKRAINE
 #EXTINF:-0 tvg-logo="http://persik.tv/images/channels/logos/10487.png",Роскосмос HD
 #EXTGRP:unsorted
 https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2UtMDEtcHViLnBlcnNpay5ieTo4Mi9saXZlL0NoMDEzcHViL2luZGV4Lm0zdTg=
-
+#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/2483.png",Дикая охота HD
+#EXTGRP:unsorted
+http://212.122.80.182:38167/play/a02c/index.m3u8
+#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/2484.png",Дикая рыбалка HD
+#EXTGRP:unsorted
+http://212.122.80.182:38167/play/a02b/index.m3u8
 
 
