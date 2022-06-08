@@ -230,9 +230,6 @@ https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2271.png",Известия
 #EXTGRP:unsorted
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-0 tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg",Cоловьев Live
-#EXTGRP:unsorted
-http://195.2.74.99/channel/n2b108be5/index.m3u8?q=54cf135238a2c9cb122f4ce6651e94bd
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg",Соловьев Live
 #EXTGRP:unsorted
 https://a787200812-s27836.cdn.ngenix.net/hls/solovievlive/playlist_4.m3u8
@@ -361,10 +358,6 @@ https://cdnua03.hls.tv/178/hls/2gwdjx609lf4rqponmh5ay1siv7eztcb/291/stream.m3u8
 https://cdnua06.hls.tv/178/hls/hx85y72imjlaergn1wq9d3cbpz0u4vot/303/stream.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/51a04b7ebc688f12ac6e5bf993dddbd1_high.png",Viasat Sport HD
 https://cdnua01.hls.tv/178/hls/49zuigmvena5db31q27wyctjfrx8l6oh/330/stream.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f8d7037fde747a0d47c25d726c8308a0_high.png",XSport
-https://cdnua06.hls.tv/178/hls/5ziosq3lj2mf847vka6xdprynwbc1egt/576/stream.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/3a4b19890ad00b7578f64bdf214399d1_high.png",XSport HD
-https://cdnua05.hls.tv/178/hls/4oieqk1dw0tvla6h35bp9fn2muxg8c7r/3999/stream.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/35fe5923caf3bdc02600ea000826b118_high.png",Рибалка ТВ
 https://cdnua01.hls.tv/178/hls/9t14nzy8fc5rghkmpol2v7qsd6iuxa3b/4768/stream.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/6479518fe3ba3466df672d8481abfe0b_high.png",Футбол 3
