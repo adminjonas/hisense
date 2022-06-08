@@ -1,14 +1,10 @@
+
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/983.png",Первый канал HD
-#EXTGRP:unsorted
-http://185.44.75.202:38166/play/a04n/index.m3u8
+
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
 #EXTGRP:unsorted
-https://cdntv.online/high/ru3v5wlzjp/1.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/984.png",Россия HD
-#EXTGRP:unsorted
-https://cdntv.online/high/ru3v5wlzjp/33.m3u8
+http://46.174.83.66/1/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/711.png",Россия 1
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8
@@ -96,9 +92,6 @@ https://s91412.cdn.ngenix.net/mdrm/CH_TVC_7/variant.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 #EXTGRP:unsorted
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
-#EXTGRP:unsorted
-http://zigfreed.ru:81/CH/9e5faaa7dac5c9564522000e944d2595/index.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/405.png",Звезда
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA/variant.m3u8
@@ -216,18 +209,6 @@ https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3919.png",Love Nature HD
 #EXTGRP:unsorted
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2538.png",Беларусь 1
-#EXTGRP:unsorted
-https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZWhxL0NoMzIwaGQvaW5kZXgubTN1OA==
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2540.png",Беларусь 3
-#EXTGRP:unsorted
-https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZWhxL0NoMzIyL2luZGV4Lm0zdTg=
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2541.png",Беларусь 5
-#EXTGRP:unsorted
-https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZWhxL0NoMzIzaGQvaW5kZXgubTN1OA==
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2170.png",Беларусь 24
-#EXTGRP:unsorted
-https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZWhxL0NoMjAwaGQvaW5kZXgubTN1OA==
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1767.png",ТНТ HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/410338/HLS/6307840_7/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
@@ -237,9 +218,6 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnt
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 
-#EXTGRP:unsorted
-http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9dG50NC8xNi9wbGF5bGlzdC5tM3U4
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2765.png",Пятница HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
@@ -255,6 +233,9 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg",Cоловьев Live
 #EXTGRP:unsorted
 http://195.2.74.99/channel/n2b108be5/index.m3u8?q=54cf135238a2c9cb122f4ce6651e94bd
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg",Соловьев Live
+#EXTGRP:unsorted
+https://a787200812-s27836.cdn.ngenix.net/hls/solovievlive/playlist_4.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/743.png",РБК
 #EXTGRP:unsorted
 https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
@@ -278,131 +259,162 @@ http://141.105.133.43:10115/play/a01q
 https://cdntv.online/high/ru3v5wlzjp/416.m3u8
 
 
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/127.png",TV 1000
-#EXTGRP:unsorted
-http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/127.png",TV1000 HD
-#EXTGRP:unsorted
-http://50.7.188.186/TV1000_HD/mono.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/125.png",TV 1000 Action
-#EXTGRP:unsorted
-http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/125.png",TV1000 Action HD
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/8lkt2j16viaoxcwdm3bguh7n45s9pze0/308/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/267.png",TV1000 Русское Кино
-#EXTGRP:unsorted
-http://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/267.png",TV1000 Русское кино HD
-#EXTGRP:unsorted
-http://50.7.188.186/TV1000RusskoeHD/mono.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1011.png",VIP Comedy HD
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/6xktvi9psazw7cr438j0u1nqbh2m5ged/309/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1011.png",VIP Comedy
-#EXTGRP:unsorted
-http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1013.png",VIP Premiere HD
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/vh3mwx4z7p1ekjqc2uil0osrtdg8by5n/3980/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1013.png",VIP Premiere
-#EXTGRP:unsorted
-http://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1012.png",VIP Megahit HD
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/ei5dxu67vb8wzcr4so3ql2f10mp9jakg/3981/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1012.png",VIP Megahit
-#EXTGRP:unsorted
-http://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2838.png",Vip Serial HD
-#EXTGRP:unsorted
-http://50.7.188.186/VIP_Serial_HD/mono.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2838.png",VIP Serial
-#EXTGRP:unsorted
-http://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/365.png",Animal Planet HD
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/fd8mu26lx1or4hn9pkgiys3cwbzqa75v/4706/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/365.png",Animal Planet
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/lofksujyxti7d18v52ge4qpcwhrmb9z3/4706/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3760.png",National Geographic
-#EXTGRP:unsorted
-http://karnei4.alwaysdata.net/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2thcm5laTQuYWx3YXlzZGF0YS5uZXQvcGVlcnMucGhwP25hbWU9bmF0Z2VvLzE2L3BsYXlsaXN0Lm0zdTg=
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3733.png",National Geographic HD
-#EXTGRP:unsorted
-http://212.122.80.182:38167/play/a028/index.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4311.png",Nat Geo Wild
-#EXTGRP:unsorted
-https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZS9DaDMzNC9pbmRleC5tM3U4
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4475.png",Nat Geo Wild HD
-#EXTGRP:unsorted
-http://212.122.80.182:38167/play/a027/index.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4815.png",Viasat Explore HD
-#EXTGRP:unsorted
-https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/521.png",Viasat Explore
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/fzkg4bo1tci63eurhl9wvmjdpxq8sy5n/322/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4826.png",Viasat History HD
-#EXTGRP:unsorted
-http://50.7.188.186/Viasat_History_HD/mono.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3722.png",Viasat History
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/uonjkzl82eg56x3bvf7r10cid94swamp/327/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3779.png",Viasat Nature HD
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/1nelpf6my7bz9qa5ji03rvgd8tcuxo2k/328/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/765.png",Viasat Nature
-#EXTGRP:unsorted
-https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2ZvcmVpZ24tZGVmYXVsdC5wZXJzaWsuYnk6ODIvbGl2ZS9DaDI2NS9pbmRleC5tM3U4
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4826.png",History HD
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/87iwfpo6xjv3h4g2amneltybr9s05qcd/244/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2356.png",H2 HD
-#EXTGRP:unsorted
-http://50.7.92.90/H2_HD/mono.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/325.png",Discovery Channel HD
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/98avsntbi7p3r6j4z1que0lcwgyo52fm/4709/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/325.png",Discovery Channel
-#EXTGRP:unsorted
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3699.png",Investigation Discovery HD
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/k8z9njp47a3bl0dmx2frqw5ve1uyiost/254/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3699.png",Investigation Discovery
-#EXTGRP:unsorted
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryxtra
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/409.png",Discovery Science HD
-#EXTGRP:unsorted
-http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/206/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/409.png",Discovery Science
-#EXTGRP:unsorted
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2485.png",DTX HD
-#EXTGRP:unsorted
-https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cHM6Ly9zaDE3MDgwNjMuYi5oYWQuc3UvUGFyc1hNTC9Ta3kyMDAwLnBocD9uYW1lPTkyLjkwL0RUWF9IRC9tb25vLm0zdTg=
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3772.png",DTX
-#EXTGRP:unsorted
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2311.png",Приключения HD
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/51959d5b82c7743f42d1d7666f5a3238_high.png",Epic Drama
+https://cdnua01.hls.tv/178/hls/dgo35ef7csxztnj8uh0w2pbkqlvia961/3912/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/29f6284209e2780b27ee4d9168de59ab_high.png",FilmBox
+https://cdnua05.hls.tv/178/hls/5fwohdq1s9pxkgn0684y3m7lvtbcjrz2/400/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/2d8241a495b42729e88c5b8c845eb200_high.png",FilmBox ArtHouse
+https://cdnua01.hls.tv/178/hls/6v3m70cyzosla8fdhtxgun9reqb14wjp/231/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/3df28936cbb415af5ba0c08fb06035a6_high.png",Hollywood HD
+https://cdnua06.hls.tv/178/hls/zt0syi9jx12vw3ndufk8qbragh75coep/262/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/e34cca59238c70db5a0d14afd6212b2c_high.png",Paramount Channel
+https://cdnua01.hls.tv/178/hls/wrb76eghp0489xfzynqji1sto2u3m5vl/4616/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/1b38752e71964068f3d6ad4ea697d7d9_high.png",Star Family
+https://cdnua01.hls.tv/178/hls/yzf5ilgu1xrkw0d96cq2boehnams48j3/3687/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/b3dc5a18c758a4318f0ef3a3f80eca6d_high.png",Star Family HD
+https://cdnua03.hls.tv/178/hls/26u9p7sl3zdgw8eo4vjnkhtfm1i0rbqa/3996/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/ddbf36d33aab936ae24fd69127cb2fa3_high.png",TV 1000
+https://cdnua06.hls.tv/178/hls/miev52dklx8j0uo7zw1q3nbtpy9scgfa/311/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/539b18ae394c1cd3419686d597a3d272_high.png",TV 1000 Action HD
+https://cdnua06.hls.tv/178/hls/pawvrhq5dnie1l8sf23bg9uzm60c4tyo/308/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/b69e82bae1a03e89f93dcf3d34d1cef2_high.png",TV 1000 World kino
+https://cdnua03.hls.tv/178/hls/no7id69e4hfsmtwxz01vua2qlry5bgjk/4816/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f327d3de63e9cfd7dc8765fb62d569f5_high.png",ViP Comedy HD
+https://cdnua03.hls.tv/178/hls/ebpa6dq4rovgz3sjfhumc27ik95l8nyw/309/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/b912830c852d24380eb3684240b9691b_high.png",ViP Comedy SD
+https://cdnua06.hls.tv/178/hls/plvqa6cmzteo0yns7hudr389x1fw5bj2/4000/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/166b6ab58faec047d5e470e19e9e4f37_high.png",ViP Megahit HD
+https://cdnua06.hls.tv/178/hls/bfw57egzn6jya41motchk82rid3u0sxl/3981/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/393665f186dfa36d5cfd4aac62a91a71_high.png",ViP Megahit SD
+https://cdnua01.hls.tv/178/hls/ghsw4x2l78drpqyfatui91ojmc3n6vek/4003/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/84b52c4f8271857af4816510a1c4a0e0_high.png",ViP Premiere HD
+https://cdnua01.hls.tv/178/hls/vrq6fagjh3cyipzldm79uw508bet4o1n/3980/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/b9eb226ef46e052fbfcd118b89474521_high.png",ViP Premiere SD
+https://cdnua01.hls.tv/178/hls/rqnixkof91zv4l07bjdu6catey8g5h3s/4001/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f44d60b78fbe879d4612d895daf5e260_high.png",ZEE TV
+https://cdnua03.hls.tv/178/hls/fds2i4wqmgu5tnj3cbzkxo1vpye87a09/577/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/8f9601290e3ae72e8f4f339c50ca356d_high.png",Animal planet
+https://cdnua05.hls.tv/178/hls/4yw2rdzekbc0o3ilshgujvaqf8n1675t/174/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/baf824d2df31fd248c376df99b115955_high.png",Animal planet HD
+https://cdnua06.hls.tv/178/hls/kb8rgv42qyd7a5luhnx61seo93cjzi0w/4706/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/2bd7fd4e058163bc23c92a7606ca20cc_high.png",Discovery Channel
+https://cdnua05.hls.tv/178/hls/x5rav6oyqpwl1nu947ge02tzsi3mch8j/210/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/70440b6189cee240f1095cd24618efb2_high.png",Discovery Channel HD
+https://cdnua05.hls.tv/178/hls/vfr2zgnja4cq1elwkt57906dhobmi38y/4709/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/0b8d4124294e1a3cc5cde6e39c1579c5_high.png",Discovery Science HD
+https://cdnua03.hls.tv/178/hls/kzeivlfocpwbu6s9g8nxq5at743rhd0m/206/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/45aaa9b6158737714eafadccd8a9de09_high.png",DocuBox HD
+https://cdnua03.hls.tv/178/hls/9l3stqj45voc6y0mxrn1k7w2hfibdpzu/211/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/a06a1089d7b58e646acf0190a8cbc7a3_high.png",English Club HD
+https://cdnua06.hls.tv/178/hls/ae9hxmi7fw153rnbucsvjz42yq0gkl8p/3959/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/43e80273221505c3b1ef98fc05118a25_high.png",English Club TV
+https://cdnua05.hls.tv/178/hls/r8wsoa6fgqjdul2ex4mp10z3i7nctybh/69/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/01a440bbdf5d2cef43c2ddcc47b38ced_high.png",History HD
+https://cdnua03.hls.tv/178/hls/pmfsbn3684qy5tgh0jezc1vkd27li9uo/244/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/ed1e40f61ea446a9c73b8900fe48b20d_high.png",ID Investigation Discovery HD
+https://cdnua03.hls.tv/178/hls/6mwr2svfe8xnlzb45ygup390j7khct1i/254/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/9e8a7274a98dee12596fb4e362012fbd_high.png",SEA TV
+https://cdnua06.hls.tv/178/hls/71ku8jf3eltg0rbhmpi652dwqxcyv9o4/3696/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/9b5a4ebb2f9cb9a8274ff0e563d639bf_high.png",SEA TV HD
+https://cdnua03.hls.tv/178/hls/19wzpqco28ejf0ui3tbsha67rdm5xglv/4251/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/c1e2ee21d3ca6df227a1c7e870072432_high.png",Travel channel HD
+https://cdnua03.hls.tv/178/hls/uawgq13704lz5vjhrd9oyk8isebmpncf/307/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/03ac441dbd161f897c555bfab2b42e20_high.png",Viasat Explore
+https://cdnua05.hls.tv/178/hls/607ga94p158dhncx3ey2sizuktjorbwl/322/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/d1d3ad9aea15f76d9f7d90b149aacbfc_high.png",Viasat History
+https://cdnua03.hls.tv/178/hls/uzn3hmq591yrlajfv87wk2id4bpc6ost/327/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/330647eaddeeef6aa034bee4a9214db4_high.png",Viasat Nature
+https://cdnua01.hls.tv/178/hls/vir02qzbp7tlnk54xecjofy183hgdw6m/328/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/6e27f84e51939995055db327fb84b8e3_high.png",EU Music HD
+https://cdnua03.hls.tv/178/hls/pi2y4l5rufz6sjgtd0h9qabwv3xkec7m/570/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/4bc0168e8418f49e44df2efa252f2845_high.png",InRating HD
+https://cdnua01.hls.tv/178/hls/sk3ptoql8rmh07xdau4fez6gncj15vi9/4751/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/0524cad7d32ebd742a42e8ab5e63fdf7_high.png",MTV Club
+https://cdnua03.hls.tv/178/hls/o5jbvpn7rmsdclw290kz4qfuy8haxg3t/264/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/2ac50c8a2e72bd58cc91a383f2f68c76_high.png",MTV Live HD
+https://cdnua06.hls.tv/178/hls/p8hu06zj2r4bd1f5sgowexivkyanqm3l/267/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/538e937a7fad3c1a8b43870d38417eae_high.png",Music 4EVER HD
+https://cdnua03.hls.tv/178/hls/ou1xlnwi2fdt6r0e5zab9pkmqj3g4y8c/3987/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/ef51d4326156faad40a7e0b85ed45a2d_high.png",EQUALYMPIC HD
+https://cdnua05.hls.tv/178/hls/x67vbfqg4ith51n2jyp9c83zeklamwsr/4779/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/36b9d9cd10db14c342499a76a6175107_high.png",Eurosport 1
+https://cdnua06.hls.tv/178/hls/i9usgwbzcdp1r5t203eynm7hv46kofq8/216/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/ed6e42d11dc5d690fbd7658421dd681f_high.png",Eurosport 1 HD
+https://cdnua01.hls.tv/178/hls/8f4gvxjhqz12ycnue6lp3kwmi9ats057/217/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/134f6ba663c274db7b5f908e0f07d882_high.png",Eurosport 2
+https://cdnua03.hls.tv/178/hls/3t5r6wybnzu8k1i9h2mfa4ecvpojlsgq/218/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/41698ed74cf4416a79e3c64476f5adcb_high.png",Eurosport 2 HD
+https://cdnua01.hls.tv/178/hls/9mdkgcu7ty3rvhae60ib148f2plxqjn5/219/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/60d5ad2b61dbf009ae5a8a4a931806c4_high.png",Fast&FunBox HD
+https://cdnua01.hls.tv/178/hls/gymzi78qxd0eabnpf15lh6jokc94srvu/229/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f2d7c376c2f047995bf1a457b08845f4_high.png",FightBox HD
+https://cdnua05.hls.tv/178/hls/35ftenohy7g4b2vjrx6iapqckz9ldm0u/230/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/0912f2d3b404a4bf33c9e7de8327500a_high.png",GameTOON
+https://cdnua06.hls.tv/178/hls/78rv59acsdn4jwk6ytq3m2buzgh0ix1f/4778/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/5ecec551c6420e97f114145450ae352e_high.png",Nautical Channel HD
+https://cdnua01.hls.tv/178/hls/p91q4y3iv7umr2zt0ladkjfb6wcehson/4245/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/c8d01d72b8fd82c293591f3e0618bf1a_high.png",Setanta Sport+ UA
+https://cdnua05.hls.tv/178/hls/aycvxf58r6ewlmd9qsbu3kt0poj421ng/4314/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/22e00a385d22b1a4bc7fb465c272d01b_high.png",Setanta Sports + UA HD
+https://cdnua03.hls.tv/178/hls/2gwdjx609lf4rqponmh5ay1siv7eztcb/291/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f17d0de47219b141a54a81e5bbe46e73_high.png",Trace Sport Stars HD
+https://cdnua06.hls.tv/178/hls/hx85y72imjlaergn1wq9d3cbpz0u4vot/303/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/51a04b7ebc688f12ac6e5bf993dddbd1_high.png",Viasat Sport HD
+https://cdnua01.hls.tv/178/hls/49zuigmvena5db31q27wyctjfrx8l6oh/330/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f8d7037fde747a0d47c25d726c8308a0_high.png",XSport
+https://cdnua06.hls.tv/178/hls/5ziosq3lj2mf847vka6xdprynwbc1egt/576/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/3a4b19890ad00b7578f64bdf214399d1_high.png",XSport HD
+https://cdnua05.hls.tv/178/hls/4oieqk1dw0tvla6h35bp9fn2muxg8c7r/3999/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/35fe5923caf3bdc02600ea000826b118_high.png",Рибалка ТВ
+https://cdnua01.hls.tv/178/hls/9t14nzy8fc5rghkmpol2v7qsd6iuxa3b/4768/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/6479518fe3ba3466df672d8481abfe0b_high.png",Футбол 3
+https://cdnua01.hls.tv/178/hls/38xanljhpwk504u7rietv2smgozdyfc6/4204/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://cdnua03.hls.tv/cdn/logo/9e8794c70a96d74f74f721e399920626_high.png",Duck TV
+https://cdnua03.hls.tv/178/hls/nwh19paxcds286v73jzegftmlbioyk5r/213/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://cdnua03.hls.tv/cdn/logo/c24b40da1e82524e8d392d6f3b3493fd_high.png",Duck TV HD
+https://cdnua06.hls.tv/178/hls/43pc9msvwfut7rgk25nx6jqbohidl01y/214/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://cdnua03.hls.tv/cdn/logo/a9575956d2ea4657b25650d34db311fa_high.png",Lale HD
+https://cdnua06.hls.tv/178/hls/k7c1v6xjfq3as9owtiemdrgpnhz8lu0b/74/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://cdnua03.hls.tv/cdn/logo/8f0ff7e5f9775ce78fd35ec7d562a4d0_high.png",Nick Jr
+https://cdnua03.hls.tv/178/hls/xy6it1hjbezmfdwko53n04cg89rqa7v2/277/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://cdnua03.hls.tv/cdn/logo/a6f9ac5df8fb715b8f3185009ad67071_high.png",Nickelodeon
+https://cdnua01.hls.tv/178/hls/8pqib7kg2e5m4jr1fz0nacwlhvxyodut/280/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://cdnua03.hls.tv/cdn/logo/c8c332417edff846838ebfeb6c76b5ec_high.png",Nickelodeon HD
+https://cdnua01.hls.tv/178/hls/6cb01ka8hj2rqyiuevn5pmlzodgxfs34/278/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://cdnua03.hls.tv/cdn/logo/d415dcc8e200735af3a5b53df5c316ae_high.png",Nicktoons
+https://cdnua03.hls.tv/178/hls/d735w8yibvrxhnz9gcsetaopqj10uf2l/4773/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://cdnua03.hls.tv/cdn/logo/b2d57090e6c57ee8ebe59e56669d7460_high.png",NIKI Junior HD
+https://cdnua03.hls.tv/178/hls/9jfvqkaoby5e64zil7r30hxcun2spt1g/3621/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/3466a8b5a0608bd1bdefec6a2b418dc8_high.png",Cars&Stars HD
+https://cdnua05.hls.tv/178/hls/n2ix6vg3bwsh5aufoyj1d4e8mc0rptqk/4781/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/6667ae84703e0ade1f2a74a9842d6efa_high.png",FashionBox HD
+https://cdnua01.hls.tv/178/hls/rd42957hkvp0oge8m6ifaqtjwc1unzxl/228/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/45c81a3d13e6933632e6c229c1b39898_high.png",TLC
+https://cdnua03.hls.tv/178/hls/umt4ip0nr785zdwa3ofkc9ljgsqe6v1x/301/stream.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f1efc38fbc9a652130c5e16c2852e201_high.png",Deutsche Welle
+https://cdnua05.hls.tv/178/hls/bnhl42a6ofxdgjev3i8cmwzqu71yp95s/204/stream.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/83e3d2db04efe27b5c12105a8bfddd9d_high.png",Euronews
+https://cdnua06.hls.tv/178/hls/hf2qze507unmgjywlisrdc98kt4x3o1p/215/stream.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/ed56f8aa6d63be29be2fd9e142bea020_high.png",Euronews EN
+https://cdnua01.hls.tv/178/hls/kj4fde0ypg56cqmtu8bszwx7ho3alr92/4782/stream.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/6ff523c06154c0e078c29ae3e144f189_high.png",France 24 EN
+https://cdnua06.hls.tv/178/hls/ng4h8m5wcr2dokt301viesypqlfjax96/4783/stream.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/9287cf1ba66621bd237ccf81211a5c9a_high.png",TVP Info
+https://cdnua03.hls.tv/178/hls/phzd9bx25ugqoc4wsny7v13i68akef0j/4415/stream.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/ba5e5ff4c08ff49f7b3b73776c661861_high.png",TVP POLONIA
+https://cdnua03.hls.tv/178/hls/p4onsgxm7l92wacfzqjide01b8hytukv/3678/stream.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/4e56979bc02263d90b7709e4fb63d3fd_high.png",Настоящее время HD
+https://cdnua03.hls.tv/178/hls/24ncieakqgzvyo0lbmdxjf6th7swr9p5/3932/stream.m3u8
+
+#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/2311.png",Приключения HD
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2310.png",Первый космический HD
+#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/2310.png",Первый космический HD
 #EXTGRP:unsorted
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2418.png",Galaxy 
+#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/4778.png",Космо HD
 #EXTGRP:unsorted
-http://lb.wisp.cat/lb0/Galaxy/video.m3u8?token=FREETVUKRAINE
-#EXTINF:-0 tvg-logo="http://persik.tv/images/channels/logos/10487.png",Роскосмос HD
+https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2UtMDEtcHViLnBlcnNpay5ieTo4Mi9saXZlL0NoMDcwcHViL2luZGV4Lm0zdTg=
+#EXTINF:0 tvg-logo="http://persik.tv/images/channels/logos/10487.png",Роскосмос HD
 #EXTGRP:unsorted
 https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2UtMDEtcHViLnBlcnNpay5ieTo4Mi9saXZlL0NoMDEzcHViL2luZGV4Lm0zdTg=
-#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/2483.png",Дикая охота HD
-#EXTGRP:unsorted
-http://212.122.80.182:38167/play/a02c/index.m3u8
-#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/2484.png",Дикая рыбалка HD
-#EXTGRP:unsorted
-http://212.122.80.182:38167/play/a02b/index.m3u8
-
-
