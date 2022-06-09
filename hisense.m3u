@@ -1,4 +1,5 @@
 
+
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 
@@ -241,19 +242,13 @@ https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/834.png",Дом кино
 #EXTGRP:unsorted
-https://cdntv.online/high/ru3v5wlzjp/111.m3u8
+http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2NTQ4MjA0NDMsImlhdCI6MTY1NDczNDA0MywiY2lkIjo2LCJ1aWQiOjUwNDIyMDU4NywicmVnIjpmYWxzZSwiaXAiOjc2NDY1ODk2NH0.fvyPOzVaxRd8fAAyUFkHl4eo8bn2XmlBMrK9OBlKuU4&offset=13
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2020.png",Дом кино Премиум HD
 #EXTGRP:unsorted
-https://cdntv.online/high/ru3v5wlzjp/112.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2020.png",Дом кино Премиум
-#EXTGRP:unsorted
-http://195.245.97.133:8000/channel116.m3u8
+http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2NTQ4MjA0NDMsImlhdCI6MTY1NDczNDA0MywiY2lkIjo2LCJ1aWQiOjUwNDIyMDU4NywicmVnIjpmYWxzZSwiaXAiOjc2NDY1ODk2NH0.fvyPOzVaxRd8fAAyUFkHl4eo8bn2XmlBMrK9OBlKuU4&offset=13
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/401.png",Русский роман
 #EXTGRP:unsorted
-http://141.105.133.43:10115/play/a01q
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/401.png",Русский роман HD
-#EXTGRP:unsorted
-https://cdntv.online/high/ru3v5wlzjp/416.m3u8
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2NTQ4MjA0NDMsImlhdCI6MTY1NDczNDA0MywiY2lkIjo2LCJ1aWQiOjUwNDIyMDU4NywicmVnIjpmYWxzZSwiaXAiOjc2NDY1ODk2NH0.fvyPOzVaxRd8fAAyUFkHl4eo8bn2XmlBMrK9OBlKuU4&offset=13
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/51959d5b82c7743f42d1d7666f5a3238_high.png",Epic Drama
@@ -278,15 +273,15 @@ https://cdnua06.hls.tv/178/hls/pawvrhq5dnie1l8sf23bg9uzm60c4tyo/308/stream.m3u8
 https://cdnua03.hls.tv/178/hls/no7id69e4hfsmtwxz01vua2qlry5bgjk/4816/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f327d3de63e9cfd7dc8765fb62d569f5_high.png",ViP Comedy HD
 https://cdnua03.hls.tv/178/hls/ebpa6dq4rovgz3sjfhumc27ik95l8nyw/309/stream.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/b912830c852d24380eb3684240b9691b_high.png",ViP Comedy SD
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/b912830c852d24380eb3684240b9691b_high.png",ViP Comedy 
 https://cdnua06.hls.tv/178/hls/plvqa6cmzteo0yns7hudr389x1fw5bj2/4000/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/166b6ab58faec047d5e470e19e9e4f37_high.png",ViP Megahit HD
 https://cdnua06.hls.tv/178/hls/bfw57egzn6jya41motchk82rid3u0sxl/3981/stream.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/393665f186dfa36d5cfd4aac62a91a71_high.png",ViP Megahit SD
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/393665f186dfa36d5cfd4aac62a91a71_high.png",ViP Megahit 
 https://cdnua01.hls.tv/178/hls/ghsw4x2l78drpqyfatui91ojmc3n6vek/4003/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/84b52c4f8271857af4816510a1c4a0e0_high.png",ViP Premiere HD
 https://cdnua01.hls.tv/178/hls/vrq6fagjh3cyipzldm79uw508bet4o1n/3980/stream.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/b9eb226ef46e052fbfcd118b89474521_high.png",ViP Premiere SD
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/b9eb226ef46e052fbfcd118b89474521_high.png",ViP Premiere 
 https://cdnua01.hls.tv/178/hls/rqnixkof91zv4l07bjdu6catey8g5h3s/4001/stream.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f44d60b78fbe879d4612d895daf5e260_high.png",ZEE TV
 https://cdnua03.hls.tv/178/hls/fds2i4wqmgu5tnj3cbzkxo1vpye87a09/577/stream.m3u8
@@ -302,18 +297,10 @@ https://cdnua05.hls.tv/178/hls/vfr2zgnja4cq1elwkt57906dhobmi38y/4709/stream.m3u8
 https://cdnua03.hls.tv/178/hls/kzeivlfocpwbu6s9g8nxq5at743rhd0m/206/stream.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/45aaa9b6158737714eafadccd8a9de09_high.png",DocuBox HD
 https://cdnua03.hls.tv/178/hls/9l3stqj45voc6y0mxrn1k7w2hfibdpzu/211/stream.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/a06a1089d7b58e646acf0190a8cbc7a3_high.png",English Club HD
-https://cdnua06.hls.tv/178/hls/ae9hxmi7fw153rnbucsvjz42yq0gkl8p/3959/stream.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/43e80273221505c3b1ef98fc05118a25_high.png",English Club TV
-https://cdnua05.hls.tv/178/hls/r8wsoa6fgqjdul2ex4mp10z3i7nctybh/69/stream.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/01a440bbdf5d2cef43c2ddcc47b38ced_high.png",History HD
 https://cdnua03.hls.tv/178/hls/pmfsbn3684qy5tgh0jezc1vkd27li9uo/244/stream.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/ed1e40f61ea446a9c73b8900fe48b20d_high.png",ID Investigation Discovery HD
 https://cdnua03.hls.tv/178/hls/6mwr2svfe8xnlzb45ygup390j7khct1i/254/stream.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/9e8a7274a98dee12596fb4e362012fbd_high.png",SEA TV
-https://cdnua06.hls.tv/178/hls/71ku8jf3eltg0rbhmpi652dwqxcyv9o4/3696/stream.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/9b5a4ebb2f9cb9a8274ff0e563d639bf_high.png",SEA TV HD
-https://cdnua03.hls.tv/178/hls/19wzpqco28ejf0ui3tbsha67rdm5xglv/4251/stream.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/c1e2ee21d3ca6df227a1c7e870072432_high.png",Travel channel HD
 https://cdnua03.hls.tv/178/hls/uawgq13704lz5vjhrd9oyk8isebmpncf/307/stream.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/03ac441dbd161f897c555bfab2b42e20_high.png",Viasat Explore
@@ -322,6 +309,10 @@ https://cdnua05.hls.tv/178/hls/607ga94p158dhncx3ey2sizuktjorbwl/322/stream.m3u8
 https://cdnua03.hls.tv/178/hls/uzn3hmq591yrlajfv87wk2id4bpc6ost/327/stream.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/330647eaddeeef6aa034bee4a9214db4_high.png",Viasat Nature
 https://cdnua01.hls.tv/178/hls/vir02qzbp7tlnk54xecjofy183hgdw6m/328/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/9e8a7274a98dee12596fb4e362012fbd_high.png",SEA TV
+https://cdnua06.hls.tv/178/hls/71ku8jf3eltg0rbhmpi652dwqxcyv9o4/3696/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/9b5a4ebb2f9cb9a8274ff0e563d639bf_high.png",SEA TV HD
+https://cdnua03.hls.tv/178/hls/19wzpqco28ejf0ui3tbsha67rdm5xglv/4251/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/6e27f84e51939995055db327fb84b8e3_high.png",EU Music HD
 https://cdnua03.hls.tv/178/hls/pi2y4l5rufz6sjgtd0h9qabwv3xkec7m/570/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/4bc0168e8418f49e44df2efa252f2845_high.png",InRating HD
@@ -358,7 +349,7 @@ https://cdnua03.hls.tv/178/hls/2gwdjx609lf4rqponmh5ay1siv7eztcb/291/stream.m3u8
 https://cdnua06.hls.tv/178/hls/hx85y72imjlaergn1wq9d3cbpz0u4vot/303/stream.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/51a04b7ebc688f12ac6e5bf993dddbd1_high.png",Viasat Sport HD
 https://cdnua01.hls.tv/178/hls/49zuigmvena5db31q27wyctjfrx8l6oh/330/stream.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/35fe5923caf3bdc02600ea000826b118_high.png",Рибалка ТВ
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/35fe5923caf3bdc02600ea000826b118_high.png",Рыбалка ТВ
 https://cdnua01.hls.tv/178/hls/9t14nzy8fc5rghkmpol2v7qsd6iuxa3b/4768/stream.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/6479518fe3ba3466df672d8481abfe0b_high.png",Футбол 3
 https://cdnua01.hls.tv/178/hls/38xanljhpwk504u7rietv2smgozdyfc6/4204/stream.m3u8
@@ -384,6 +375,10 @@ https://cdnua05.hls.tv/178/hls/n2ix6vg3bwsh5aufoyj1d4e8mc0rptqk/4781/stream.m3u8
 https://cdnua01.hls.tv/178/hls/rd42957hkvp0oge8m6ifaqtjwc1unzxl/228/stream.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/45c81a3d13e6933632e6c229c1b39898_high.png",TLC
 https://cdnua03.hls.tv/178/hls/umt4ip0nr785zdwa3ofkc9ljgsqe6v1x/301/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/a06a1089d7b58e646acf0190a8cbc7a3_high.png",English Club HD
+https://cdnua06.hls.tv/178/hls/ae9hxmi7fw153rnbucsvjz42yq0gkl8p/3959/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/43e80273221505c3b1ef98fc05118a25_high.png",English Club TV
+https://cdnua05.hls.tv/178/hls/r8wsoa6fgqjdul2ex4mp10z3i7nctybh/69/stream.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/f1efc38fbc9a652130c5e16c2852e201_high.png",Deutsche Welle
 https://cdnua05.hls.tv/178/hls/bnhl42a6ofxdgjev3i8cmwzqu71yp95s/204/stream.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/83e3d2db04efe27b5c12105a8bfddd9d_high.png",Euronews
