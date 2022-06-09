@@ -249,6 +249,9 @@ http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOi
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/401.png",Русский роман
 #EXTGRP:unsorted
 http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2NTQ4MjA0NDMsImlhdCI6MTY1NDczNDA0MywiY2lkIjo2LCJ1aWQiOjUwNDIyMDU4NywicmVnIjpmYWxzZSwiaXAiOjc2NDY1ODk2NH0.fvyPOzVaxRd8fAAyUFkHl4eo8bn2XmlBMrK9OBlKuU4&offset=13
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png",Мосфильм. Золотая коллекция
+#EXTGRP:unsorted
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2NTQ4MjA0NDMsImlhdCI6MTY1NDczNDA0MywiY2lkIjo2LCJ1aWQiOjUwNDIyMDU4NywicmVnIjpmYWxzZSwiaXAiOjc2NDY1ODk2NH0.fvyPOzVaxRd8fAAyUFkHl4eo8bn2XmlBMrK9OBlKuU4&offset=13
 
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://cdnua03.hls.tv/cdn/logo/51959d5b82c7743f42d1d7666f5a3238_high.png",Epic Drama
