@@ -235,7 +235,7 @@ https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg",Соловьев Live
 #EXTGRP:unsorted
-https://a787200812-s27836.cdn.ngenix.net/hls/solovievlive/playlist_4.m3u8
+https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/743.png",РБК
 #EXTGRP:unsorted
 https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
