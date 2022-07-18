@@ -216,6 +216,30 @@ https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8
 
 
+#EXTINF:-1 ,Супер
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,Супер (+2)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,Супер (+4)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,Супер (+7)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница!
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! (+2)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! (+4)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,Пятница! (+7)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/353.png",ТНТ
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
@@ -243,6 +267,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8?versio
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 (+7)
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/bw2000000/variant.m3u8?version=2
+
+
 
 
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3919.png",Love Nature HD
