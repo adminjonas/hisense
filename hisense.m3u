@@ -216,16 +216,16 @@ https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png",Суббота 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота 
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" ,Субота (+2)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" ,Субота (+2)
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" ,Суббота (+4)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" ,Суббота (+4)
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" ,Суббота (+7)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" ,Суббота (+7)
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница!
