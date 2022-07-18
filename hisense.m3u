@@ -1,4 +1,3 @@
-
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 
@@ -8,6 +7,9 @@ http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/204/index.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
 #EXTGRP:unsorted
 http://46.174.83.66/1/index.m3u8?em9uYS1pcHR2LnJ1
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/bw2000000/variant.m3u8?version=2&http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/711.png",Россия 1
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8
@@ -191,6 +193,9 @@ https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_7/variant.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/898.png",Ю ТВ
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_U/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/898.png",Ю (+1)
+#EXTGRP:unsorted
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_U/variant.m3u8?version=2
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/898.png",Ю ТВ (+2)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_U_2/variant.m3u8
@@ -209,6 +214,37 @@ https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4444.png",Наша Сибирь HD
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/353.png",ТНТ
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1767.png",ТНТ HD
+#EXTGRP:unsorted
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/353.png",ТНТ (+2)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/353.png",ТНТ (+4)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/353.png",ТНТ (+7)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4
+#EXTGRP:unsorted
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_TNT4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 (+2)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 (+4)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 (+7)
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/bw2000000/variant.m3u8?version=2
+
+
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3919.png",Love Nature HD
 #EXTGRP:unsorted
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
