@@ -317,219 +317,52 @@ http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/2076/index.m3u8
 http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/7347/index.m3u8
 
 
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2229.png",Epic Drama
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/dgo35ef7csxztnj8uh0w2pbkqlvia961/3912/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2181.png",FilmBox
-#EXTGRP:unsorted
-https://cdnua05.hls.tv/178/hls/5fwohdq1s9pxkgn0684y3m7lvtbcjrz2/400/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2182.png",FilmBox ArtHouse
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/6v3m70cyzosla8fdhtxgun9reqb14wjp/231/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/934.png",Hollywood HD
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/zt0syi9jx12vw3ndufk8qbragh75coep/262/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2405.png",Paramount Channel
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/wrb76eghp0489xfzynqji1sto2u3m5vl/4616/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2153.png",Star Family
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/yzf5ilgu1xrkw0d96cq2boehnams48j3/3687/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2153.png",Star Family HD
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/26u9p7sl3zdgw8eo4vjnkhtfm1i0rbqa/3996/stream.m3u8
+
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/127.png",TV 1000
 #EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/miev52dklx8j0uo7zw1q3nbtpy9scgfa/311/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/110.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/125.png",TV 1000 Action HD
 #EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/pawvrhq5dnie1l8sf23bg9uzm60c4tyo/308/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/100.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2274.png" ,TV 1000 World kino
 #EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/no7id69e4hfsmtwxz01vua2qlry5bgjk/4816/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/123.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1011.png",ViP Comedy HD
 #EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/ebpa6dq4rovgz3sjfhumc27ik95l8nyw/309/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1011.png",ViP Comedy
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/plvqa6cmzteo0yns7hudr389x1fw5bj2/4000/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/201.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1012.png",ViP Megahit HD
 #EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/bfw57egzn6jya41motchk82rid3u0sxl/3981/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1012.png",ViP Megahit
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/ghsw4x2l78drpqyfatui91ojmc3n6vek/4003/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/200.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1013.png",ViP Premiere HD
 #EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/vrq6fagjh3cyipzldm79uw508bet4o1n/3980/stream.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1013.png",ViP Premiere
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/rqnixkof91zv4l07bjdu6catey8g5h3s/4001/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2233.png",ZEE TV
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/fds2i4wqmgu5tnj3cbzkxo1vpye87a09/577/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/365.png",Animal planet
-#EXTGRP:unsorted
-https://cdnua05.hls.tv/178/hls/4yw2rdzekbc0o3ilshgujvaqf8n1675t/174/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/202.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/365.png",Animal planet HD
 #EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/kb8rgv42qyd7a5luhnx61seo93cjzi0w/4706/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/325.png",Discovery Channel
-#EXTGRP:unsorted
-https://cdnua05.hls.tv/178/hls/x5rav6oyqpwl1nu947ge02tzsi3mch8j/210/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/114.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/325.png",Discovery Channel HD
 #EXTGRP:unsorted
-https://cdnua05.hls.tv/178/hls/vfr2zgnja4cq1elwkt57906dhobmi38y/4709/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/177.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/409.png",Discovery Science HD
 #EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/kzeivlfocpwbu6s9g8nxq5at743rhd0m/206/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/146.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/3699.png",Investigation Discovery HD
 #EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/6mwr2svfe8xnlzb45ygup390j7khct1i/254/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/205.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1394.png",History HD
 #EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/pmfsbn3684qy5tgh0jezc1vkd27li9uo/244/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/113.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/613.png",Travel chanel
 #EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/uawgq13704lz5vjhrd9oyk8isebmpncf/307/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/231.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/521.png",Viasat Explore
 #EXTGRP:unsorted
-https://cdnua05.hls.tv/178/hls/607ga94p158dhncx3ey2sizuktjorbwl/322/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/239.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/277.png",Viasat History
 #EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/uzn3hmq591yrlajfv87wk2id4bpc6ost/327/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/101.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/765.png",Viasat Nature
 #EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/vir02qzbp7tlnk54xecjofy183hgdw6m/328/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2186.png",DocuBox HD
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/9l3stqj45voc6y0mxrn1k7w2hfibdpzu/211/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2187.png",SEA TV
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/71ku8jf3eltg0rbhmpi652dwqxcyv9o4/3696/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2187.png",SEA TV HD
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/19wzpqco28ejf0ui3tbsha67rdm5xglv/4251/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2094.png",EU Music HD
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/pi2y4l5rufz6sjgtd0h9qabwv3xkec7m/570/stream.m3u8
-#EXTINF:-0  tvg-logo="https://cdnua03.hls.tv/cdn/logo/4bc0168e8418f49e44df2efa252f2845_high.png",InRating HD
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/sk3ptoql8rmh07xdau4fez6gncj15vi9/4751/stream.m3u8
-#EXTINF:-0  tvg-logo="https://cdnua03.hls.tv/cdn/logo/0524cad7d32ebd742a42e8ab5e63fdf7_high.png",MTV Club
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/o5jbvpn7rmsdclw290kz4qfuy8haxg3t/264/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/382.png",MTV Live HD
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/p8hu06zj2r4bd1f5sgowexivkyanqm3l/267/stream.m3u8
-#EXTINF:-0  tvg-logo="https://cdnua03.hls.tv/cdn/logo/538e937a7fad3c1a8b43870d38417eae_high.png",Music 4EVER HD
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/ou1xlnwi2fdt6r0e5zab9pkmqj3g4y8c/3987/stream.m3u8
-#EXTINF:-0  tvg-logo="https://cdnua03.hls.tv/cdn/logo/ef51d4326156faad40a7e0b85ed45a2d_high.png",EQUALYMPIC HD
-#EXTGRP:unsorted
-https://cdnua05.hls.tv/178/hls/x67vbfqg4ith51n2jyp9c83zeklamwsr/4779/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/4902.png",Eurosport 1
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/i9usgwbzcdp1r5t203eynm7hv46kofq8/216/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/4902.png",Eurosport 1 HD
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/8f4gvxjhqz12ycnue6lp3kwmi9ats057/217/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/4313.png",Eurosport 2
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/3t5r6wybnzu8k1i9h2mfa4ecvpojlsgq/218/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/4313.png",Eurosport 2 HD
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/9mdkgcu7ty3rvhae60ib148f2plxqjn5/219/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2362.png",Fast&FunBox HD
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/gymzi78qxd0eabnpf15lh6jokc94srvu/229/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/3792.png",FightBox HD
-#EXTGRP:unsorted
-https://cdnua05.hls.tv/178/hls/35ftenohy7g4b2vjrx6iapqckz9ldm0u/230/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2770.png",GameTOON
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/78rv59acsdn4jwk6ytq3m2buzgh0ix1f/4778/stream.m3u8
-#EXTINF:-0  tvg-logo="https://cdnua03.hls.tv/cdn/logo/5ecec551c6420e97f114145450ae352e_high.png",Nautical Channel HD
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/p91q4y3iv7umr2zt0ladkjfb6wcehson/4245/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/4630.png",Setanta Sport+ UA
-#EXTGRP:unsorted
-https://cdnua05.hls.tv/178/hls/aycvxf58r6ewlmd9qsbu3kt0poj421ng/4314/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2364.png",Setanta Sports UA HD
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/2gwdjx609lf4rqponmh5ay1siv7eztcb/291/stream.m3u8
-#EXTINF:-0  tvg-logo="https://cdnua03.hls.tv/cdn/logo/f17d0de47219b141a54a81e5bbe46e73_high.png",Trace Sport Stars HD
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/hx85y72imjlaergn1wq9d3cbpz0u4vot/303/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2055.png",Viasat Sport HD
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/49zuigmvena5db31q27wyctjfrx8l6oh/330/stream.m3u8
-#EXTINF:-0  tvg-logo="https://cdnua03.hls.tv/cdn/logo/35fe5923caf3bdc02600ea000826b118_high.png",Рыбалка ТВ
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/9t14nzy8fc5rghkmpol2v7qsd6iuxa3b/4768/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2669.png",Футбол 3
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/38xanljhpwk504u7rietv2smgozdyfc6/4204/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2156.png",Duck TV
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/nwh19paxcds286v73jzegftmlbioyk5r/213/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2156.png",Duck TV HD
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/43pc9msvwfut7rgk25nx6jqbohidl01y/214/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2086.png",Lale HD
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/k7c1v6xjfq3as9owtiemdrgpnhz8lu0b/74/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2678.png",Nick Jr
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/xy6it1hjbezmfdwko53n04cg89rqa7v2/277/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/567.png",Nickelodeon
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/8pqib7kg2e5m4jr1fz0nacwlhvxyodut/280/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/423.png",Nickelodeon HD
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/6cb01ka8hj2rqyiuevn5pmlzodgxfs34/278/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2994.png",Nicktoons
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/d735w8yibvrxhnz9gcsetaopqj10uf2l/4773/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/3334.png",NIKI Junior HD
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/9jfvqkaoby5e64zil7r30hxcun2spt1g/3621/stream.m3u8
-#EXTINF:-0  tvg-logo="https://cdnua03.hls.tv/cdn/logo/3466a8b5a0608bd1bdefec6a2b418dc8_high.png",Cars&Stars HD
-#EXTGRP:unsorted
-https://cdnua05.hls.tv/178/hls/n2ix6vg3bwsh5aufoyj1d4e8mc0rptqk/4781/stream.m3u8
-#EXTINF:-0  tvg-logo="https://cdnua03.hls.tv/cdn/logo/6667ae84703e0ade1f2a74a9842d6efa_high.png",FashionBox HD
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/rd42957hkvp0oge8m6ifaqtjwc1unzxl/228/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/3967.png",TLC
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/umt4ip0nr785zdwa3ofkc9ljgsqe6v1x/301/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2155.png",English Club HD
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/ae9hxmi7fw153rnbucsvjz42yq0gkl8p/3959/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2155.png",English Club TV
-#EXTGRP:unsorted
-https://cdnua05.hls.tv/178/hls/r8wsoa6fgqjdul2ex4mp10z3i7nctybh/69/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2352.png" ,Deutsche Welle
-#EXTGRP:unsorted
-https://cdnua05.hls.tv/178/hls/bnhl42a6ofxdgjev3i8cmwzqu71yp95s/204/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2129.png",Euronews
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/hf2qze507unmgjywlisrdc98kt4x3o1p/215/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2129.png",Euronews EN
-#EXTGRP:unsorted
-https://cdnua01.hls.tv/178/hls/kj4fde0ypg56cqmtu8bszwx7ho3alr92/4782/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2133.png",France 24 EN
-#EXTGRP:unsorted
-https://cdnua06.hls.tv/178/hls/ng4h8m5wcr2dokt301viesypqlfjax96/4783/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2132.png",TVP Info
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/phzd9bx25ugqoc4wsny7v13i68akef0j/4415/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/4487.png",TVP POLONIA
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/p4onsgxm7l92wacfzqjide01b8hytukv/3678/stream.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2142.png",Настоящее время HD
-#EXTGRP:unsorted
-https://cdnua03.hls.tv/178/hls/24ncieakqgzvyo0lbmdxjf6th7swr9p5/3932/stream.m3u8
+http://myott.top/stream/L8UX4F5IIF/240.m3u8
 
 #EXTINF:0 tvg-logo="http://epg.it999.ru/img2/2311.png",Приключения HD
 #EXTGRP:unsorted
@@ -542,4 +375,4 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace
 https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2UtMDEtcHViLnBlcnNpay5ieTo4Mi9saXZlL0NoMDcwcHViL2luZGV4Lm0zdTg=
 #EXTINF:0 tvg-logo="http://persik.tv/images/channels/logos/10487.png",Роскосмос HD
 #EXTGRP:unsorted
-https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2UtMDEtcHViLnBlcnNpay5ieTo4Mi9saXZlL0NoMDEzcHViL2luZGV4Lm0zdTg=
+https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2UtMDEtcHViLnBlcnNpay5ieTo4Mi9saXZ
