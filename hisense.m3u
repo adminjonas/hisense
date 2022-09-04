@@ -290,10 +290,10 @@ https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb4638
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=subbota
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 #EXTGRP:unsorted
-https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+http://ip1.orgip.net/134/video.m3u8?token=S933AAA01B
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2271.png",Известия
 #EXTGRP:unsorted
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+http://ip1.orgip.net/0134/video.m3u8?token=S933AAA01B
 #EXTINF:-0 tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg",Соловьев Live
 #EXTGRP:unsorted
 https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
@@ -324,7 +324,7 @@ http://myott.top/stream/L8UX4F5IIF/110.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/125.png",TV 1000 Action HD
 #EXTGRP:unsorted
 http://myott.top/stream/L8UX4F5IIF/100.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2274.png" ,TV 1000 World kino
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/267.png" ,TV 1000 Русское кино HD
 #EXTGRP:unsorted
 http://myott.top/stream/L8UX4F5IIF/123.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1011.png",ViP Comedy HD
@@ -336,6 +336,9 @@ http://myott.top/stream/L8UX4F5IIF/200.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1013.png",ViP Premiere HD
 #EXTGRP:unsorted
 http://myott.top/stream/L8UX4F5IIF/202.m3u8
+#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
+#EXTGRP:unsorted
+http://myott.top/stream/L8UX4F5IIF/311.m3u8
 #EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/365.png",Animal planet HD
 #EXTGRP:unsorted
 http://myott.top/stream/L8UX4F5IIF/114.m3u8
