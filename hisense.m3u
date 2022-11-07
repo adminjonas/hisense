@@ -1,13 +1,9 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/983.png",Первый канал HD
-#EXTGRP:unsorted
-http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/204/index.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
 #EXTGRP:unsorted
 http://46.174.83.66/1/index.m3u8?em9uYS1pcHR2LnJ1
-
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/bw2000000/variant.m3u8
@@ -217,16 +213,16 @@ https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png",Суббота 
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" ,Субота (+2)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" ,Субота (+2)
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" ,Суббота (+4)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" ,Суббота (+4)
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" ,Суббота (+7)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" ,Суббота (+7)
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница!
@@ -290,92 +286,16 @@ https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb4638
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=subbota
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 #EXTGRP:unsorted
-http://ip1.orgip.net/134/video.m3u8?token=S933AAA01B
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2271.png",Известия
 #EXTGRP:unsorted
-http://ip1.orgip.net/0134/video.m3u8?token=S933AAA01B
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg",Соловьев Live
 #EXTGRP:unsorted
 https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/743.png",РБК
 #EXTGRP:unsorted
 https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Vmlogo2012.png?uselang=ru",Вечерняя Москва
-#EXTGRP:unsorted
-http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/834.png",Дом кино
-#EXTGRP:unsorted
-http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/154/index.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2020.png",Дом кино Премиум HD
-#EXTGRP:unsorted
-http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/5082/index.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/401.png",Русский роман
-#EXTGRP:unsorted
-http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/2076/index.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3357.png",Мосфильм. Золотая коллекция
-#EXTGRP:unsorted
-http://d8bd04cd.megogo.xyz/iptv/99HGWHU54PYBY4/7347/index.m3u8
 
 
 
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/127.png",TV 1000
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/110.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/125.png",TV 1000 Action HD
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/100.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/267.png" ,TV 1000 Русское кино HD
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/123.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1011.png",ViP Comedy HD
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/201.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1012.png",ViP Megahit HD
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/200.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1013.png",ViP Premiere HD
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/202.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/311.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/365.png",Animal planet HD
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/114.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/325.png",Discovery Channel HD
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/177.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/409.png",Discovery Science HD
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/146.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/3699.png",Investigation Discovery HD
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/205.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/1394.png",History HD
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/113.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/613.png",Travel chanel
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/231.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/521.png",Viasat Explore
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/239.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/277.png",Viasat History
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/101.m3u8
-#EXTINF:-0  tvg-logo="http://epg.it999.ru/img2/765.png",Viasat Nature
-#EXTGRP:unsorted
-http://myott.top/stream/L8UX4F5IIF/240.m3u8
-
-#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/2311.png",Приключения HD
-#EXTGRP:unsorted
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
-#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/2310.png",Первый космический HD
-#EXTGRP:unsorted
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace
-#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/4778.png",Космо HD
-#EXTGRP:unsorted
-https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2UtMDEtcHViLnBlcnNpay5ieTo4Mi9saXZlL0NoMDcwcHViL2luZGV4Lm0zdTg=
-#EXTINF:0 tvg-logo="http://persik.tv/images/channels/logos/10487.png",Роскосмос HD
-#EXTGRP:unsorted
-https://sh1708063.b.had.su/ParsXML/hls/video/video.php?hash=70453a948531d16ac14207b70cab3352:aHR0cDovL2VkZ2UtMDEtcHViLnBlcnNpay5ieTo4Mi9saXZ
