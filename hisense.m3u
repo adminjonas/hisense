@@ -61,10 +61,6 @@ https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_4/variant.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3034.png",РЕН ТВ (+7)
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_7/variant.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
-#EXTGRP:unsorted
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/726.png",Мир
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/3019.png",Мир (+2)
@@ -272,18 +268,12 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1767.png",ТНТ HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/410338/HLS/6307840_7/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/353.png",ТНТ
-#EXTGRP:unsorted
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnt
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2765.png",Пятница HD
 #EXTGRP:unsorted
 https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/5604.png",Суббота HD
-#EXTGRP:unsorted
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=subbota
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 #EXTGRP:unsorted
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
@@ -292,10 +282,7 @@ https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg",Соловьев Live
 #EXTGRP:unsorted
-https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=playlist.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/743.png",РБК
 #EXTGRP:unsorted
 https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
-
-
-
