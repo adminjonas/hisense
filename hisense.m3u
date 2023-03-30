@@ -7,10 +7,10 @@ http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm//CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-id="pervy-pl2" tvg-logo="http://epg.it999.ru/img2/146.png" ,Первый канал (+2)
+#EXTINF:-1 tvg-id="pervy-pl2" tvg-logo="http://epg.it999.ru/img2/2034.png" ,Первый канал (+2)
 #EXTGRP:unsorted
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 tvg-id="pervy-pl2" tvg-logo="http://epg.it999.ru/img2/146.png" ,Первый канал (+2)
+#EXTINF:-1 tvg-id="pervy-pl2" tvg-logo="http://epg.it999.ru/img2/2034.png" ,Первый канал (+2)
 #EXTGRP:unsorted
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-pl3" tvg-logo="http://epg.it999.ru/img2/146.png" ,Первый канал (+3)
@@ -19,10 +19,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-pl3" tvg-logo="http://epg.it999.ru/img2/146.png" ,Первый канал (+3)
 #EXTGRP:unsorted
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://epg.it999.ru/img2/146.png" ,Первый канал (+4)
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://epg.it999.ru/img2/3025.png" ,Первый канал (+4)
 #EXTGRP:unsorted
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://epg.it999.ru/img2/146.png" ,Первый канал (+4)
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="http://epg.it999.ru/img2/3025.png" ,Первый канал (+4)
 #EXTGRP:unsorted
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-pl5" tvg-logo="http://epg.it999.ru/img2/146.png" ,Первый канал (+5)
@@ -34,10 +34,10 @@ http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_IRKUTSK/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-pl6" tvg-logo="http://epg.it999.ru/img2/146.png" ,Первый канал (+6)
 #EXTGRP:unsorted
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 tvg-id="pervy-pl7" tvg-logo="http://epg.it999.ru/img2/146.png" ,Первый канал (+7)
+#EXTINF:-1 tvg-id="pervy-pl7" tvg-logo="https://epg.it999.ru/img2/3026.png" ,Первый канал (+7)
 #EXTGRP:unsorted
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="pervy-pl8" tvg-logo="http://epg.it999.ru/img2/146.png" ,Первый канал (+8)
+#EXTINF:-1 tvg-id="pervy-pl8" tvg-logo="https://epg.it999.ru/img2/3027.png" ,Первый канал (+8)
 #EXTGRP:unsorted
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-pl9" tvg-logo="http://epg.it999.ru/img2/146.png" ,Первый канал (+9)
