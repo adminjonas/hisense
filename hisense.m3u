@@ -235,12 +235,6 @@ https://s91412.cdn.ngenix.net/mdrm/CH_U_7/variant.m3u8
 #EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2141.png",Спас
 #EXTGRP:unsorted
 https://s91412.cdn.ngenix.net/mdrm/CH_SPAS/variant.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2746.png",Наша Сибирь
-#EXTGRP:unsorted
-https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8
-#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/4444.png",Наша Сибирь HD
-#EXTGRP:unsorted
-https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8
 
 
 
@@ -316,5 +310,19 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/323.png",2x2 (+7)
 #EXTGRP:unsorted
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2746.png",Наша Сибирь
+#EXTGRP:unsorted
+https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8
+#EXTINF:-1 tvg-logo="https://epg.it999.ru/img2/2803.png",Русский Экстрим HD
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 tvg-logo="https://epg.it999.ru/img2/2743.png",Ultra HD Cinema
+#EXTGRP:unsorted
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+
+
+
+
 
 
